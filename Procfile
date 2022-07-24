@@ -1,1 +1,1 @@
-web: python3.10 server.py
+web: gunicorn wsgi:app
