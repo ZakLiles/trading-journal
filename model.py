@@ -31,3 +31,5 @@ class Trade(db.Model):
     """Trade info"""
 
     __tablename__ = "trade"
+
+    trade_id = db.Column(db.Integer, autoincrement = True, primary_key=True)

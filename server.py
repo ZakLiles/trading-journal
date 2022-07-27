@@ -1,8 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask, redirect, render_template, url_for
 from flask_wtf import FlaskForm
 from wtforms.fields import EmailField, PasswordField, SubmitField, StringField
 import os
 from jinja2 import StrictUndefined
+
+from model import db, User
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
@@ -31,9 +33,21 @@ def index():
 def register():
     """Registration page"""
 
-    form = RegisterForm()
+    form = RegisterForm()  
 
-    return render_template("register.html", form=form)
+    if form.validate_on_submit():
+        first_name = form.first_name.data
+        last_name = form.last_name.data
+        email = form.email.data
+        password = form.password.data
+
+        user = User(first_name=first_name, last_name=last_name, email=email, password=password)
+        db.session.add(user)
+        db.session.commit()
+
+        return redirect(url_for('index'))
+    else:
+        return render_template("register.html", form=form)
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
