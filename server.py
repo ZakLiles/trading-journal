@@ -1,15 +1,18 @@
 from flask import Flask, render_template
 from flask_wtf import FlaskForm
-from wtforms.fields import EmailField, PasswordField, SubmitField
+from wtforms.fields import EmailField, PasswordField, SubmitField, StringField
 import os
+from jinja2 import StrictUndefined
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
 
-# app.jinja_env.undefined = StrictUndefined
+app.jinja_env.undefined = StrictUndefined
 
 class RegisterForm(FlaskForm):
     email = EmailField("Email")
+    first_name = StringField("First Name")
+    last_name = StringField("Last Name")
     password = PasswordField("Password")
     submit = SubmitField("Login")
 
