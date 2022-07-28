@@ -4,12 +4,14 @@ from wtforms.fields import EmailField, PasswordField, SubmitField, StringField
 import os
 from jinja2 import StrictUndefined
 
-from model import db, User
+from model import connect_to_db, db, User
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
 
 app.jinja_env.undefined = StrictUndefined
+
+connect_to_db(app)
 
 class RegisterForm(FlaskForm):
     email = EmailField("Email")
@@ -56,3 +58,7 @@ def login():
     form = LoginForm()
 
     return render_template("login.html", form=form)
+
+if __name__ == "__main__":
+    print("connection to DB")
+    connect_to_db(app)

@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 from werkzeug.security import generate_password_hash, check_password_hash
 
+
 load_dotenv()
 
 from flask_sqlalchemy import SQLAlchemy
@@ -33,3 +34,17 @@ class Trade(db.Model):
     __tablename__ = "trade"
 
     trade_id = db.Column(db.Integer, autoincrement = True, primary_key=True)
+
+def connect_to_db(app):
+    """Connect the database to the Flask app"""
+
+    app.config['SQLALCHEMY_DATABASE_URI'] = SQL_ALCHEMY_DATABASE_URI
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+    db.app = app
+    db.init_app(app)
+
+if __name__ == "__main__":
+    from server import app
+    connect_to_db(app)
+
+    db.create_all()
