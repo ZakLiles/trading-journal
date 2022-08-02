@@ -1,4 +1,32 @@
 {% extends 'base.html' %}
 
 {% block content %}
+    <table id="trades" class="table table-dark table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Result</th>
+                <th>Open Date</th>
+                <th>Symbol</th>
+                <th>Side</th>
+                <th>Spread</th>
+                <th>Entry Price</th>
+                <th>Exit Price</th>
+                <th>Return</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for trade in trades %}
+                <tr>
+                    <td>{{ trade.result }}</td>
+                    <td>{{ trade.open_date }}</td>
+                    <td>{{ trade.symbol }}</td>
+                    <td>{{ trade.side }}</td>
+                    <td>{{ trade.spread }}</td>
+                    <td>{{ trade.entry_price }}</td>
+                    <td>{{ trade.exit_price }}</td>
+                    <td>{{ trade.return_amt }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 {% endblock %}

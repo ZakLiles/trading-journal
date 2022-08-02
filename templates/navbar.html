@@ -10,14 +10,21 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a href="{{ url_for('index') }}" class="nav-link">Home</a>
-          </li>
-        </ul>
+        {% if not session.get("user_id") %}
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="{{ url_for('index') }}" class="nav-link">Home</a>
+            </li>
+          </ul>
+        {% endif %}
         <form class="form-inline my-2 my-lg-0">
-          <a href="{{ url_for('register') }}" class="btn btn-primary">Register</a>
-          <a href="{{ url_for('login') }}" class="btn btn-primary">Login</a>
+          {% if session.get("user_id") %}
+            <a href="{{ url_for('logout') }}" class="btn btn-outline-primary">Logout</a>
+            <a href="{{ url_for('import_trades') }}" class="btn btn-outline-primary">Add Trades</a>
+          {% else %}
+            <a href="{{ url_for('register') }}" class="btn btn-outline-primary">Register</a>
+            <a href="{{ url_for('login') }}" class="btn btn-outline-primary">Login</a>
+          {% endif %}
         </form>
       </div>
     </div>

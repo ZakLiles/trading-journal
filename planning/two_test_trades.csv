@@ -1,0 +1,844 @@
+﻿This document was exported from the paperMoney® platform which provides a simulated trading environment. All data contained herein is for educational and entertainment purposes only. TD Ameritrade its subsidiaries and/or affiliates are not responsible for the accuracy of any of these exported data.
+
+Account Statement for D-20961747 (margin) since 12/31/21 through 7/19/22
+
+Cash Balance
+DATE,TIME,TYPE,REF #,DESCRIPTION,Misc Fees,Commissions & Fees,AMOUNT,BALANCE
+12/31/21,23:00:00,BAL,,Cash balance at the start of business day 01.01 CST,,,,0.00
+1/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.01 CST,,,,0.00
+1/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.01 CST,,,,0.00
+1/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.01 CST,,,,0.00
+1/4/22,10:28:58,FND,1406105726,Initial money transfer.,,,"100,000.00","100,000.00"
+1/4/22,10:30:19,FND,1406105799,Transfer 10000 dollars,,,"10,000.00","110,000.00"
+1/4/22,10:30:36,FND,1406107520,Transfer 10000 dollars,,,"10,000.00","120,000.00"
+1/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.01 CST,,,,"120,000.00"
+1/4/22,23:57:31,FND,1406412317,Transfer -10000 dollars,,,"-10,000.00","110,000.00"
+1/4/22,23:57:42,FND,1406412321,Transfer -210000 dollars,,,"-210,000.00","-100,000.00"
+1/4/22,23:57:53,FND,1406412324,Transfer 2000 dollars,,,"2,000.00","-98,000.00"
+1/4/22,23:58:47,FND,1406412332,Transfer 100000 dollars,,,"100,000.00","2,000.00"
+1/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.01 CST,,,,"2,000.00"
+1/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.01 CST,,,,"2,000.00"
+1/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.01 CST,,,,"2,000.00"
+1/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.01 CST,,,,"2,000.00"
+1/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.01 CST,,,,"2,000.00"
+1/10/22,11:13:29,TRD,1409116835,SOLD -10 EBAY @63.98,-0.01,,639.80,"2,639.79"
+1/10/22,11:43:59,TRD,1409146580,BOT +1 EBAY 100 21 JAN 22 67 PUT @3.40,-0.01,-0.65,-340.00,"2,299.13"
+1/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.01 CST,,,,"2,299.13"
+1/11/22,08:40:00,TRD,1409668610,tAndroid BOT +10 EBAY @65.65,,,-656.50,"1,642.63"
+1/11/22,08:40:54,TRD,1409668679,tAndroid SOLD -1 EBAY 100 21 JAN 22 67 PUT @2.10,-0.02,-0.65,210.00,"1,851.96"
+1/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.01 CST,,,,"1,851.96"
+1/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.01 CST,,,,"1,851.96"
+1/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.01 CST,,,,"1,851.96"
+1/14/22,07:33:49,TRD,1411595825,BOT +1 F 100 21 JAN 22 26 CALL @.28,-0.01,-0.65,-28.00,"1,823.30"
+1/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.01 CST,,,,"1,823.30"
+1/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.01 CST,,,,"1,823.30"
+1/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.01 CST,,,,"1,823.30"
+1/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.01 CST,,,,"1,823.30"
+1/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.01 CST,,,,"1,823.30"
+1/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.01 CST,,,,"1,823.30"
+1/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.01 CST,,,,"1,823.30"
+1/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.01 CST,,,,"1,823.30"
+1/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.01 CST,,,,"1,823.30"
+1/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.01 CST,,,,"1,823.30"
+1/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.01 CST,,,,"1,823.30"
+1/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.01 CST,,,,"1,823.30"
+1/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.01 CST,,,,"1,823.30"
+1/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.01 CST,,,,"1,823.30"
+1/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.01 CST,,,,"1,823.30"
+1/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.01 CST,,,,"1,823.30"
+1/30/22,23:00:00,BAL,,Cash balance at the start of business day 31.01 CST,,,,"1,823.30"
+1/31/22,23:00:00,BAL,,Cash balance at the start of business day 01.02 CST,,,,"1,823.30"
+2/1/22,10:25:53,TRD,1421243816,SOLD -1 AFRM 100 (Weeklys) 11 FEB 22 63 CALL @8.85,-0.02,-0.65,885.00,"2,707.63"
+2/1/22,11:43:31,TRD,1421312462,BOT +10 F @20.71,,,-207.10,"2,500.53"
+2/1/22,11:45:05,TRD,1421314048,BOT +1 SPY @450.52,,,-450.52,"2,050.01"
+2/1/22,12:01:58,TRD,1421329714,BOT +1 AFRM 100 (Weeklys) 11 FEB 22 63 CALL @7.80,-0.01,-0.65,-780.00,"1,269.35"
+2/1/22,12:03:42,TRD,1421330965,BOT +1 AFRM 100 (Weeklys) 11 FEB 22 63 CALL @7.95,-0.01,-0.65,-795.00,473.69
+2/1/22,12:17:04,TRD,1421342781,SOLD -1 SPY @450.38,-0.01,,450.38,924.06
+2/1/22,12:25:42,TRD,1421352294,SOLD -10 F @20.40,-0.01,,204.00,"1,128.05"
+2/1/22,13:19:50,TRD,1421408227,BOT +1 DELL 100 18 FEB 22 55 CALL @3.50,-0.01,-0.65,-350.00,777.39
+2/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.02 CST,,,,777.39
+2/2/22,08:23:37,TRD,1421793421,tAndroid BOT +5 MTCH @118.96,,,-594.80,182.59
+2/2/22,08:29:23,TRD,1421806050,tAndroid BOT +5 LVS @45.16,,,-225.80,-43.21
+2/2/22,08:54:37,TRD,1421859288,tAndroid SOLD -5 MTCH @119.73,-0.01,,598.65,555.43
+2/2/22,08:56:24,TRD,1421863801,tAndroid SOLD -1 DELL 100 18 FEB 22 55 CALL @4.50,-0.02,-0.65,450.00,"1,004.76"
+2/2/22,09:56:22,TRD,1421957787,BOT +7 MGI 100 18 FEB 22 9 CALL @.95,-0.04,-4.55,-665.00,335.17
+2/2/22,09:57:18,TRD,1421960703,SOLD -1 AFRM 100 (Weeklys) 11 FEB 22 63 CALL @4.55,-0.02,-0.65,455.00,789.50
+2/2/22,11:27:00,TRD,1422063778,SOLD -7 MGI 100 18 FEB 22 9 CALL @1.10,-0.05,-4.55,770.00,"1,554.90"
+2/2/22,11:52:14,TRD,1422091208,BOT +50 AR @21.47,,,"-1,073.50",481.40
+2/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.02 CST,,,,481.40
+2/3/22,10:08:49,TRD,1422766598,tAndroid BOT +5 SENS 100 18 FEB 22 2.5 CALL @.69,-0.03,-3.25,-345.00,133.12
+2/3/22,10:26:58,TRD,1422789393,tAndroid BOT +10 JNJ 100 (Weeklys) 4 FEB 22 175 CALL @.16,-0.06,-6.50,-160.00,-33.44
+2/3/22,12:22:27,TRD,1422909891,tAndroid SOLD -5 LVS @44.26,-0.01,,221.30,187.85
+2/3/22,12:23:24,TRD,1422911435,tAndroid SOLD -50 AR @21.27,-0.02,,"1,063.50","1,251.33"
+2/3/22,12:23:31,TRD,1422911449,tAndroid SOLD -10 JNJ 100 (Weeklys) 4 FEB 22 175 CALL @.17,-0.07,-6.50,170.00,"1,414.76"
+2/3/22,12:23:47,TRD,1422911458,tAndroid SOLD -5 SENS 100 18 FEB 22 2.5 CALL @.63,-0.04,-3.25,315.00,"1,726.47"
+2/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.02 CST,,,,"1,726.47"
+2/4/22,09:14:44,TRD,1423501986,BOT +10 JNJ @171.87,,,"-1,718.70",7.77
+2/4/22,09:15:32,LIQ,1423503176,Cash liquidation,,,"99,992.23","100,000.00"
+2/4/22,09:16:07,FND,1423504641,Cash adjustment,,,"-98,000.00","2,000.00"
+2/4/22,09:20:55,FND,1423511187,Cash adjustment,,,-100.00,"1,900.00"
+2/4/22,09:49:57,TRD,1423557812,BOT +10 ANY 100 (Weeklys) 11 FEB 22 3 CALL @.30,-0.06,-6.50,-300.00,"1,593.44"
+2/4/22,12:49:12,TRD,1423767741,tAndroid SOLD -10 ANY 100 (Weeklys) 11 FEB 22 3 CALL @.48,-0.07,-6.50,480.00,"2,066.87"
+2/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.02 CST,,,,"2,066.87"
+2/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.02 CST,,,,"2,066.87"
+2/6/22,22:32:21,FND,1424057686,Cash adjustment,,,"1,533.00","3,599.87"
+2/6/22,22:35:24,FND,1424057700,Cash adjustment,,,-0.87,"3,599.00"
+2/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.02 CST,,,,"3,599.00"
+2/7/22,09:14:43,FND,1424382663,Cash adjustment,,,-100.00,"3,499.00"
+2/7/22,09:29:22,TRD,1424404560,BOT +1 /MESH22:XCME @4496.75,,-2.25,,"3,496.75"
+2/7/22,09:42:53,TRD,1424426476,SOLD -1 /MESH22:XCME @4482.75,,-2.25,-70.00,"3,424.50"
+2/7/22,09:43:09,TRD,1424426486,BOT +1 /MESH22:XCME @4482.25,,-2.25,,"3,422.25"
+2/7/22,10:40:19,TRD,1424501930,SOLD -1 /MESH22:XCME @4477.25,,-2.25,-25.00,"3,395.00"
+2/7/22,10:40:24,TRD,1424501940,SOLD -1 /MESH22:XCME @4476.75,,-2.25,,"3,392.75"
+2/7/22,11:27:48,TRD,1424558111,BOT +1 /MESH22:XCME @4492.00,,-2.25,-76.25,"3,314.25"
+2/7/22,11:29:09,TRD,1424559525,BOT +1 /MESH22:XCME @4495.25,,-2.25,,"3,312.00"
+2/7/22,11:42:14,TRD,1424572095,BOT +1 /MESH22:XCME @4496.50,,-2.25,,"3,309.75"
+2/7/22,11:51:46,TRD,1424582752,SOLD -1 /MESH22:XCME @4493.00,,-2.25,-11.25,"3,296.25"
+2/7/22,11:51:49,TRD,1424582754,SOLD -1 /MESH22:XCME @4493.00,,-2.25,-17.50,"3,276.50"
+2/7/22,11:52:01,TRD,1424582772,SOLD -1 /MESH22:XCME @4493.50,,-2.25,,"3,274.25"
+2/7/22,12:05:46,TRD,1424597836,tAndroid BOT +1 /MESH22:XCME @4497.00,,-2.25,-17.50,"3,254.50"
+2/7/22,12:23:27,TRD,1424614013,BOT +1 /MESH22:XCME @4495.50,,-2.25,,"3,252.25"
+2/7/22,12:50:34,TRD,1424644650,tAndroid SOLD -1 /MESH22:XCME @4503.00,,-2.25,37.50,"3,287.50"
+2/7/22,13:29:07,TRD,1424692515,SOLD -1 /MESH22:XCME @4496.25,,-2.25,,"3,285.25"
+2/7/22,13:45:13,TRD,1424716952,SOLD -1 /MESH22:XCME @4478.50,,-2.25,,"3,283.00"
+2/7/22,13:57:19,TRD,1424735753,BOT +200 SENS @3.69,,,-738.00,"2,545.00"
+2/7/22,13:58:30,TRD,1424737957,tAndroid BOT +2 /MESH22:XCME @4471.50,,-4.50,158.75,"2,699.25"
+2/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.02 CST,,,,"2,699.25"
+2/8/22,08:45:42,TRD,1425119415,tAndroid BOT +1 /MESH22:XCME @4479.00,,-2.25,,"2,697.00"
+2/8/22,08:58:01,TRD,1425145788,tAndroid SOLD -1 /MESH22:XCME @4485.00,,-2.25,30.00,"2,724.75"
+2/8/22,09:01:34,TRD,1425153506,tAndroid BOT +1 /MESH22:XCME @4487.50,,-2.25,,"2,722.50"
+2/8/22,09:31:09,TRD,1425199517,tAndroid BOT +1 /MESH22:XCME @4498.25,,-2.25,,"2,720.25"
+2/8/22,09:33:01,TRD,1425202247,tAndroid SOLD -200 SENS @3.49,-0.01,,698.00,"3,418.24"
+2/8/22,10:15:34,TRD,1425255591,tAndroid SOLD -2 /MESH22:XCME @4500.75,,-4.50,78.75,"3,492.49"
+2/8/22,10:38:31,TRD,1425286622,BOT +1 /MESH22:XCME @4513.50,,-2.25,,"3,490.24"
+2/8/22,10:46:16,TRD,1425297309,BOT +1 /MESH22:XCME @4515.75,,-2.25,,"3,487.99"
+2/8/22,11:01:56,TRD,1425313809,tAndroid SOLD -2 /MESH22:XCME @4509.25,,-4.50,-53.75,"3,429.74"
+2/8/22,11:09:44,TRD,1425322026,tAndroid SOLD -1 /MESH22:XCME @4508.50,,-2.25,,"3,427.49"
+2/8/22,12:06:08,TRD,1425377876,tAndroid BOT +1 /MESH22:XCME @4510.75,,-2.25,-11.25,"3,413.99"
+2/8/22,13:19:17,TRD,1425464474,BOT +1 /MESH22:XCME @4511.25,,-2.25,,"3,411.74"
+2/8/22,14:00:06,TRD,1425515480,tAndroid SOLD -1 /MESH22:XCME @4512.50,,-2.25,6.25,"3,415.74"
+2/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.02 CST,,,,"3,415.74"
+2/9/22,07:58:29,TRD,1425773398,tAndroid SOLD -1 /MESH22:XCME @4559.00,,-2.25,,"3,413.49"
+2/9/22,08:35:13,TRD,1425876372,tAndroid BOT +2 /MESH22:XCME @4570.25,,-4.50,-56.25,"3,352.74"
+2/9/22,10:47:04,TRD,1426062596,BOT +1 /MESH22:XCME @4568.75,,-2.25,,"3,350.49"
+2/9/22,12:57:26,TRD,1426185541,SOLD -4 /MESH22:XCME @4575.25,,-9.00,57.50,"3,398.99"
+2/9/22,13:22:40,TRD,1426218971,tAndroid BOT +2 /MESH22:XCME @4568.50,,-4.50,67.50,"3,461.99"
+2/9/22,13:25:26,TRD,1426223220,BOT +1 /MESH22:XCME @4569.75,,-2.25,,"3,459.74"
+2/9/22,13:40:35,TRD,1426244130,tAndroid SOLD -1 /MESH22:XCME @4572.50,,-2.25,13.75,"3,471.24"
+2/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.02 CST,,,,"3,471.24"
+2/10/22,07:42:50,TRD,1426491380,tAndroid BOT +1 /MESH22:XCME @4543.25,,-2.25,,"3,468.99"
+2/10/22,07:52:02,TRD,1426525781,tAndroid BOT +1 /MESH22:XCME @4553.75,,-2.25,,"3,466.74"
+2/10/22,08:07:51,TRD,1426577680,tAndroid SOLD -2 /MESH22:XCME @4566.00,,-4.50,175.00,"3,637.24"
+2/10/22,08:36:42,TRD,1426647311,tAndroid BOT +1 /MESH22:XCME @4569.00,,-2.25,,"3,634.99"
+2/10/22,08:54:25,TRD,1426686138,SOLD -1 /MESH22:XCME @4562.50,,-2.25,-32.50,"3,600.24"
+2/10/22,08:58:20,TRD,1426695303,SOLD -1 /MESH22:XCME @4557.00,,-2.25,,"3,597.99"
+2/10/22,09:07:29,TRD,1426712238,BOT +1 /MESH22:XCME @4564.00,,-2.25,-35.00,"3,560.74"
+2/10/22,10:24:20,TRD,1426809987,BOT +1 /MESH22:XCME @4568.25,,-2.25,,"3,558.49"
+2/10/22,10:35:35,TRD,1426821553,SOLD -1 /MESH22:XCME @4562.75,,-2.25,-27.50,"3,528.74"
+2/10/22,11:07:06,TRD,1426864863,BOT +1 /MESH22:XCME @4547.50,,-2.25,,"3,526.49"
+2/10/22,11:17:46,TRD,1426876730,SOLD -2 /MESH22:XCME @4526.50,,-4.50,-105.00,"3,416.99"
+2/10/22,11:32:54,TRD,1426895987,tAndroid SOLD -1 /MESH22:XCME @4515.75,,-2.25,,"3,414.74"
+2/10/22,11:42:02,TRD,1426910131,BOT +2 /MESH22:XCME @4518.00,,-4.50,31.25,"3,441.49"
+2/10/22,12:21:43,TRD,1426953215,SOLD -1 /MESH22:XCME @4499.25,,-2.25,,"3,439.24"
+2/10/22,12:30:36,TRD,1426963371,tAndroid BOT +2 /MESH22:XCME @4515.00,,-4.50,-78.75,"3,355.99"
+2/10/22,12:59:36,TRD,1426995184,tAndroid SOLD -2 /MESH22:XCME @4500.75,,-4.50,-71.25,"3,280.24"
+2/10/22,13:17:20,TRD,1427016934,tAndroid BOT +2 /MESH22:XCME @4513.50,,-4.50,-63.75,"3,211.99"
+2/10/22,13:33:57,TRD,1427038132,SOLD -3 /MESH22:XCME @4492.50,,-6.75,-105.00,"3,100.24"
+2/10/22,14:15:00,ADJ,,/MESH22:XCME mark to market at 4497.50 official settlement price,,,-50.00,"3,050.24"
+2/10/22,14:15:00,ADJ,,/MESH22:XCME mark to market at 4497.50 official settlement price,,,-215.00,"2,835.24"
+2/10/22,18:33:17,TRD,1427160590,tAndroid BOT +2 /MESH22:XCME @4484.00,,-4.50,135.00,"2,965.74"
+2/10/22,21:14:10,TRD,1427182018,tAndroid SOLD -2 /MESH22:XCME @4476.00,,-4.50,,"2,961.24"
+2/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.02 CST,,,,"2,961.24"
+2/10/22,23:11:46,TRD,1427191515,tAndroid BOT +2 /MESH22:XCME @4462.50,,-4.50,350.00,"3,306.74"
+2/11/22,05:31:57,TRD,1427215305,tAndroid BOT +2 /MESH22:XCME @4496.00,,-4.50,,"3,302.24"
+2/11/22,05:57:56,TRD,1427217937,tAndroid SOLD -2 /MESH22:XCME @4488.75,,-4.50,-72.50,"3,225.24"
+2/11/22,07:31:45,TRD,1427248667,BOT +2 /MESH22:XCME @4506.00,,-4.50,,"3,220.74"
+2/11/22,08:16:06,TRD,1427398549,SOLD -2 /MESH22:XCME @4492.25,,-4.50,-137.50,"3,078.74"
+2/11/22,10:54:39,TRD,1427644218,SOLD -1 /MESH22:XCME @4469.25,,-2.25,,"3,076.49"
+2/11/22,12:14:18,TRD,1427743890,tAndroid BOT +1 /MESH22:XCME @4421.75,,-2.25,237.50,"3,311.74"
+2/11/22,12:50:18,TRD,1427788845,SOLD -2 /MESH22:XCME @4406.00,,-4.50,,"3,307.24"
+2/11/22,13:32:21,TRD,1427832776,tAndroid BOT +1 /MESH22:XCME @4404.50,,-2.25,7.50,"3,312.49"
+2/11/22,13:33:20,TRD,1427841910,tAndroid BOT +1 /MESH22:XCME @4405.00,,-2.25,5.00,"3,315.24"
+2/11/22,13:50:03,TRD,1427861791,SOLD -1 /MESH22:XCME @4424.25,,-2.25,,"3,312.99"
+2/11/22,13:57:49,TRD,1427873096,tAndroid BOT +1 /MESH22:XCME @4416.75,,-2.25,37.50,"3,348.24"
+2/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.02 CST,,,,"3,348.24"
+2/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.02 CST,,,,"3,348.24"
+2/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.02 CST,,,,"3,348.24"
+2/13/22,16:08:08,TRD,1427991961,tAndroid SOLD -1 /MESH22:XCME @4402.25,,-2.25,,"3,345.99"
+2/13/22,16:10:09,TRD,1427991967,tAndroid SOLD -1 /MESH22:XCME @4407.75,,-2.25,,"3,343.74"
+2/13/22,16:48:26,TRD,1427998504,BOT +4 /MESH22:XCME @4417.25,,-9.00,-122.50,"3,212.24"
+2/13/22,16:55:47,TRD,1427998956,tAndroid SOLD -1 /MESH22:XCME @4419.75,,-2.25,12.50,"3,222.49"
+2/13/22,16:58:06,TRD,1427998970,tAndroid SOLD -1 /MESH22:XCME @4420.00,,-2.25,13.75,"3,233.99"
+2/13/22,16:59:06,TRD,1427998987,tAndroid SOLD -2 /MESH22:XCME @4417.75,,-4.50,,"3,229.49"
+2/13/22,17:04:32,TRD,1427999731,tAndroid BOT +2 /MESH22:XCME @4419.75,,-4.50,-20.00,"3,204.99"
+2/13/22,17:16:27,TRD,1428001456,BOT +2 /MESH22:XCME @4421.50,,-4.50,,"3,200.49"
+2/13/22,17:25:30,TRD,1428002348,tAndroid SOLD -2 /MESH22:XCME @4419.00,,-4.50,-25.00,"3,170.99"
+2/13/22,17:30:50,TRD,1428002921,tAndroid SOLD -2 /MESH22:XCME @4414.00,,-4.50,,"3,166.49"
+2/13/22,17:37:41,TRD,1428002960,tAndroid BOT +2 /MESH22:XCME @4409.50,,-4.50,45.00,"3,206.99"
+2/13/22,19:23:22,TRD,1428014655,tAndroid SOLD -2 /MESH22:XCME @4406.25,,-4.50,,"3,202.49"
+2/13/22,19:52:43,TRD,1428018170,tAndroid BOT +2 /MESH22:XCME @4414.75,,-4.50,-85.00,"3,112.99"
+2/14/22,08:24:00,TRD,1428249798,tAndroid BOT +1 /MESH22:XCME @4397.50,,-2.25,,"3,110.74"
+2/14/22,08:57:29,TRD,1428319235,tAndroid SOLD -1 /MESH22:XCME @4383.75,,-2.25,-68.75,"3,039.74"
+2/14/22,08:59:00,TRD,1428317497,tAndroid SOLD -1 /MESH22:XCME @4387.25,,-2.25,,"3,037.49"
+2/14/22,09:04:29,TRD,1428331173,tAndroid BOT +1 /MESH22:XCME @4389.75,,-2.25,-12.50,"3,022.74"
+2/14/22,11:54:08,TRD,1428532806,tAndroid SOLD -2 /MESH22:XCME @4373.75,,-4.50,,"3,018.24"
+2/14/22,12:13:18,TRD,1428561775,tAndroid BOT +2 /MESH22:XCME @4368.25,,-4.50,55.00,"3,068.74"
+2/14/22,12:14:15,TRD,1428560686,tAndroid BOT +2 /MESH22:XCME @4366.00,,-4.50,,"3,064.24"
+2/14/22,12:15:39,TRD,1428564747,tAndroid SOLD -2 /MESH22:XCME @4363.25,,-4.50,-27.50,"3,032.24"
+2/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.02 CST,,,,"3,032.24"
+2/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.02 CST,,,,"3,032.24"
+2/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.02 CST,,,,"3,032.24"
+2/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.02 CST,,,,"3,032.24"
+2/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.02 CST,,,,"3,032.24"
+2/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.02 CST,,,,"3,032.24"
+2/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.02 CST,,,,"3,032.24"
+2/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.02 CST,,,,"3,032.24"
+2/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.02 CST,,,,"3,032.24"
+2/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.02 CST,,,,"3,032.24"
+2/24/22,10:46:04,TRD,1434213551,SOLD -1 /MESH22:XCME @4178.00,,-2.25,,"3,029.99"
+2/24/22,10:53:48,TRD,1434220530,tAndroid BOT +1 /MESH22:XCME @4169.50,,-2.25,42.50,"3,070.24"
+2/24/22,11:49:20,TRD,1434283301,BOT +1 /MESH22:XCME @4204.75,,-2.25,,"3,067.99"
+2/24/22,11:51:24,TRD,1434287917,tAndroid SOLD -1 /MESH22:XCME @4209.00,,-2.25,21.25,"3,086.99"
+2/24/22,12:40:13,TRD,1434352125,BOT +1 /MESH22:XCME @4234.50,,-2.25,,"3,084.74"
+2/24/22,13:02:43,TRD,1434378892,BOT +1 /MESH22:XCME @4239.75,,-2.25,,"3,082.49"
+2/24/22,13:29:49,TRD,1434412147,tAndroid SOLD -1 /MESH22:XCME @4239.50,,-2.25,25.00,"3,105.24"
+2/24/22,13:30:09,TRD,1434412165,tAndroid SOLD -1 /MESH22:XCME @4240.50,,-2.25,3.75,"3,106.74"
+2/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.02 CST,,,,"3,106.74"
+2/24/22,14:17:35,TRD,1434459797,SOLD -1 /MESH22:XCME @4266.75,,-2.25,,"3,104.49"
+2/24/22,14:51:25,TRD,1434465157,tAndroid BOT +1 /MESH22:XCME @4275.25,,-2.25,-42.50,"3,059.74"
+2/25/22,09:37:26,TRD,1434985986,tAndroid BOT +1 /MESH22:XCME @4351.25,,-2.25,,"3,057.49"
+2/25/22,10:11:49,TRD,1435033748,tAndroid BOT +1 /MESH22:XCME @4364.75,,-2.25,,"3,055.24"
+2/25/22,10:50:21,TRD,1435075538,tAndroid SOLD -2 /MESH22:XCME @4367.25,,-4.50,92.50,"3,143.24"
+2/25/22,10:55:39,TRD,1435081795,SOLD -1 /MESH22:XCME @4358.50,,-2.25,,"3,140.99"
+2/25/22,11:01:19,TRD,1435089291,tAndroid BOT +1 /MESH22:XCME @4366.25,,-2.25,-38.75,"3,099.99"
+2/25/22,13:15:49,TRD,1435235539,BOT +1 /MESH22:XCME @4366.50,,-2.25,,"3,097.74"
+2/25/22,13:20:40,TRD,1435241282,BOT +1 /MESH22:XCME @4370.25,,-2.25,,"3,095.49"
+2/25/22,13:32:25,TRD,1435256065,SOLD -2 /MESH22:XCME @4375.50,,-4.50,71.25,"3,162.24"
+2/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.02 CST,,,,"3,162.24"
+2/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.02 CST,,,,"3,162.24"
+2/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.02 CST,,,,"3,162.24"
+2/27/22,19:10:09,TRD,1435462565,tAndroid BOT +1 /MESH22:XCME @4287.00,,-2.25,,"3,159.99"
+2/27/22,19:16:32,TRD,1435464707,tAndroid BOT +1 /MESH22:XCME @4283.25,,-2.25,,"3,157.74"
+2/27/22,20:08:38,TRD,1435473687,tAndroid SOLD -2 /MESH22:XCME @4262.50,,-4.50,-226.25,"2,926.99"
+2/28/22,11:13:45,TRD,1436007459,BOT +1 /MESH22:XCME @4355.25,,-2.25,,"2,924.74"
+2/28/22,11:22:57,TRD,1436019905,SOLD -3 /MESH22:XCME @4334.75,,-6.75,-102.50,"2,815.49"
+2/28/22,11:52:46,TRD,1436053426,BOT +4 /MESH22:XCME @4349.25,,-9.00,-145.00,"2,661.49"
+2/28/22,14:00:14,TRD,1436213570,tAndroid SOLD -2 /MESH22:XCME @4368.50,,-4.50,192.50,"2,849.49"
+2/28/22,23:00:00,BAL,,Cash balance at the start of business day 01.03 CST,,,,"2,849.49"
+2/28/22,19:38:28,TRD,1436314322,tAndroid BOT +1 /MESH22:XCME @4364.25,,-2.25,,"2,847.24"
+2/28/22,21:50:30,TRD,1436331569,tAndroid BOT +1 /MESH22:XCME @4370.25,,-2.25,,"2,844.99"
+2/28/22,23:37:02,TRD,1436340213,tAndroid SOLD -2 /MESH22:XCME @4378.25,,-4.50,110.00,"2,950.49"
+2/28/22,23:55:47,TRD,1436340284,tAndroid SOLD -1 /MESH22:XCME @4377.25,,-2.25,,"2,948.24"
+3/1/22,00:01:27,TRD,1436340973,tAndroid BOT +2 /MESH22:XCME @4382.00,,-4.50,-23.75,"2,919.99"
+3/1/22,00:04:20,TRD,1436340979,tAndroid SOLD -1 /MESH22:XCME @4378.25,,-2.25,-18.75,"2,898.99"
+3/1/22,09:38:50,TRD,1436732954,tAndroid SOLD -1 /MESH22:XCME @4313.50,,-2.25,,"2,896.74"
+3/1/22,09:43:25,TRD,1436740365,tAndroid SOLD -1 /MESH22:XCME @4312.50,,-2.25,,"2,894.49"
+3/1/22,09:48:57,TRD,1436749936,tAndroid BOT +2 /MESH22:XCME @4302.25,,-4.50,107.50,"2,997.49"
+3/1/22,11:01:02,TRD,1436837916,BOT +1 /MESH22:XCME @4317.25,,-2.25,,"2,995.24"
+3/1/22,11:01:55,TRD,1436837954,BOT +1 /MESH22:XCME @4318.00,,-2.25,,"2,992.99"
+3/1/22,11:22:26,TRD,1436862268,tAndroid SOLD -2 /MESH22:XCME @4300.00,,-4.50,-176.25,"2,812.24"
+3/1/22,11:27:50,TRD,1436868974,SOLD -1 /MESH22:XCME @4292.75,,-2.25,,"2,809.99"
+3/1/22,11:29:30,TRD,1436871459,SOLD -1 /MESH22:XCME @4287.00,,-2.25,,"2,807.74"
+3/1/22,11:36:54,TRD,1436881114,tAndroid BOT +2 /MESH22:XCME @4292.25,,-4.50,-23.75,"2,779.49"
+3/1/22,11:38:46,TRD,1436882153,tAndroid BOT +2 /MESH22:XCME @4294.75,,-4.50,,"2,774.99"
+3/1/22,12:04:09,TRD,1436906416,tAndroid SOLD -2 /MESH22:XCME @4291.00,,-4.50,-37.50,"2,732.99"
+3/1/22,12:04:22,TRD,1436906426,tAndroid SOLD -2 /MESH22:XCME @4291.75,,-4.50,,"2,728.49"
+3/1/22,12:26:19,TRD,1436928475,tAndroid BOT +2 /MESH22:XCME @4304.75,,-4.50,-130.00,"2,593.99"
+3/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.03 CST,,,,"2,593.99"
+3/1/22,22:03:56,TRD,1437158801,tAndroid BOT +2 /MESH22:XCME @4318.00,,-4.50,,"2,589.49"
+3/2/22,00:14:15,TRD,1437169612,tAndroid SOLD -4 /MESH22:XCME @4287.75,,-9.00,-302.50,"2,277.99"
+3/2/22,10:04:15,TRD,1437570162,tAndroid BOT +2 /MESH22:XCME @4377.25,,-4.50,-895.00,"1,378.49"
+3/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.03 CST,,,,"1,378.49"
+3/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.03 CST,,,,"1,378.49"
+3/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.03 CST,,,,"1,378.49"
+3/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.03 CST,,,,"1,378.49"
+3/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.03 CST,,,,"1,378.49"
+3/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.03 CST,,,,"1,378.49"
+3/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.03 CST,,,,"1,378.49"
+3/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.03 CST,,,,"1,378.49"
+3/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.03 CST,,,,"1,378.49"
+3/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.03 CST,,,,"1,378.49"
+3/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.03 CST,,,,"1,378.49"
+3/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.03 CST,,,,"1,378.49"
+3/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.03 CST,,,,"1,378.49"
+3/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.03 CST,,,,"1,378.49"
+3/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.03 CST,,,,"1,378.49"
+3/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.03 CST,,,,"1,378.49"
+3/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.03 CST,,,,"1,378.49"
+3/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.03 CST,,,,"1,378.49"
+3/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.03 CST,,,,"1,378.49"
+3/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.03 CST,,,,"1,378.49"
+3/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.03 CST,,,,"1,378.49"
+3/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.03 CST,,,,"1,378.49"
+3/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.03 CST,,,,"1,378.49"
+3/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.03 CST,,,,"1,378.49"
+3/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.03 CST,,,,"1,378.49"
+3/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.03 CST,,,,"1,378.49"
+3/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.03 CST,,,,"1,378.49"
+3/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.03 CST,,,,"1,378.49"
+3/30/22,23:00:00,BAL,,Cash balance at the start of business day 31.03 CST,,,,"1,378.49"
+3/31/22,23:00:00,BAL,,Cash balance at the start of business day 01.04 CST,,,,"1,378.49"
+4/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.04 CST,,,,"1,378.49"
+4/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.04 CST,,,,"1,378.49"
+4/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.04 CST,,,,"1,378.49"
+4/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.04 CST,,,,"1,378.49"
+4/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.04 CST,,,,"1,378.49"
+4/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.04 CST,,,,"1,378.49"
+4/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.04 CST,,,,"1,378.49"
+4/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.04 CST,,,,"1,378.49"
+4/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.04 CST,,,,"1,378.49"
+4/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.04 CST,,,,"1,378.49"
+4/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.04 CST,,,,"1,378.49"
+4/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.04 CST,,,,"1,378.49"
+4/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.04 CST,,,,"1,378.49"
+4/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.04 CST,,,,"1,378.49"
+4/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.04 CST,,,,"1,378.49"
+4/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.04 CST,,,,"1,378.49"
+4/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.04 CST,,,,"1,378.49"
+4/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.04 CST,,,,"1,378.49"
+4/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.04 CST,,,,"1,378.49"
+4/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.04 CST,,,,"1,378.49"
+4/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.04 CST,,,,"1,378.49"
+4/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.04 CST,,,,"1,378.49"
+4/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.04 CST,,,,"1,378.49"
+4/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.04 CST,,,,"1,378.49"
+4/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.04 CST,,,,"1,378.49"
+4/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.04 CST,,,,"1,378.49"
+4/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.04 CST,,,,"1,378.49"
+4/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.04 CST,,,,"1,378.49"
+4/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.04 CST,,,,"1,378.49"
+4/30/22,23:00:00,BAL,,Cash balance at the start of business day 01.05 CST,,,,"1,378.49"
+5/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.05 CST,,,,"1,378.49"
+5/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.05 CST,,,,"1,378.49"
+5/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.05 CST,,,,"1,378.49"
+5/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.05 CST,,,,"1,378.49"
+5/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.05 CST,,,,"1,378.49"
+5/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.05 CST,,,,"1,378.49"
+5/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.05 CST,,,,"1,378.49"
+5/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.05 CST,,,,"1,378.49"
+5/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.05 CST,,,,"1,378.49"
+5/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.05 CST,,,,"1,378.49"
+5/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.05 CST,,,,"1,378.49"
+5/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.05 CST,,,,"1,378.49"
+5/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.05 CST,,,,"1,378.49"
+5/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.05 CST,,,,"1,378.49"
+5/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.05 CST,,,,"1,378.49"
+5/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.05 CST,,,,"1,378.49"
+5/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.05 CST,,,,"1,378.49"
+5/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.05 CST,,,,"1,378.49"
+5/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.05 CST,,,,"1,378.49"
+5/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.05 CST,,,,"1,378.49"
+5/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.05 CST,,,,"1,378.49"
+5/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.05 CST,,,,"1,378.49"
+5/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.05 CST,,,,"1,378.49"
+5/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.05 CST,,,,"1,378.49"
+5/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.05 CST,,,,"1,378.49"
+5/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.05 CST,,,,"1,378.49"
+5/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.05 CST,,,,"1,378.49"
+5/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.05 CST,,,,"1,378.49"
+5/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.05 CST,,,,"1,378.49"
+5/30/22,23:00:00,BAL,,Cash balance at the start of business day 31.05 CST,,,,"1,378.49"
+5/31/22,23:00:00,BAL,,Cash balance at the start of business day 01.06 CST,,,,"1,378.49"
+6/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.06 CST,,,,"1,378.49"
+6/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.06 CST,,,,"1,378.49"
+6/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.06 CST,,,,"1,378.49"
+6/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.06 CST,,,,"1,378.49"
+6/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.06 CST,,,,"1,378.49"
+6/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.06 CST,,,,"1,378.49"
+6/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.06 CST,,,,"1,378.49"
+6/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.06 CST,,,,"1,378.49"
+6/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.06 CST,,,,"1,378.49"
+6/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.06 CST,,,,"1,378.49"
+6/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.06 CST,,,,"1,378.49"
+6/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.06 CST,,,,"1,378.49"
+6/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.06 CST,,,,"1,378.49"
+6/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.06 CST,,,,"1,378.49"
+6/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.06 CST,,,,"1,378.49"
+6/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.06 CST,,,,"1,378.49"
+6/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.06 CST,,,,"1,378.49"
+6/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.06 CST,,,,"1,378.49"
+6/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.06 CST,,,,"1,378.49"
+6/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.06 CST,,,,"1,378.49"
+6/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.06 CST,,,,"1,378.49"
+6/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.06 CST,,,,"1,378.49"
+6/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.06 CST,,,,"1,378.49"
+6/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.06 CST,,,,"1,378.49"
+6/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.06 CST,,,,"1,378.49"
+6/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.06 CST,,,,"1,378.49"
+6/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.06 CST,,,,"1,378.49"
+6/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.06 CST,,,,"1,378.49"
+6/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.06 CST,,,,"1,378.49"
+6/30/22,23:00:00,BAL,,Cash balance at the start of business day 01.07 CST,,,,"1,378.49"
+7/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.07 CST,,,,"1,378.49"
+7/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.07 CST,,,,"1,378.49"
+7/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.07 CST,,,,"1,378.49"
+7/4/22,23:00:00,BAL,,Cash balance at the start of business day 05.07 CST,,,,"1,378.49"
+7/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.07 CST,,,,"1,378.49"
+7/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.07 CST,,,,"1,378.49"
+7/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.07 CST,,,,"1,378.49"
+7/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.07 CST,,,,"1,378.49"
+7/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.07 CST,,,,"1,378.49"
+7/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.07 CST,,,,"1,378.49"
+7/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.07 CST,,,,"1,378.49"
+7/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.07 CST,,,,"1,378.49"
+7/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.07 CST,,,,"1,378.49"
+7/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.07 CST,,,,"1,378.49"
+7/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.07 CST,,,,"1,378.49"
+7/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.07 CST,,,,"1,378.49"
+7/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.07 CST,,,,"1,378.49"
+7/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.07 CST,,,,"1,378.49"
+7/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.07 CST,,,,"1,378.49"
+,,,,TOTAL,($0.63),($492.95),"$1,872.07","$1,378.49"
+
+Futures Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Misc Fees,Commissions & Fees,Amount,Balance
+
+Forex Statements
+,Date,Time,Type,Ref #,Description,Commissions & Fees,Amount,Amount(USD),Balance
+,12/31/21,23:00:00,BAL,--,Cash balance at the start of the business day 01.01 CST.,--,--,--,$0.00
+,1/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.01 CST.,--,--,--,$0.00
+,1/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.01 CST.,--,--,--,$0.00
+,1/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.01 CST.,--,--,--,$0.00
+,1/4/22,10:28:58,FND,1406105727,Initial forex money transfer.,--,"10,000.00","$10,000.00","$10,000.00"
+,1/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.01 CST.,--,--,--,"$10,000.00"
+,1/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.01 CST.,--,--,--,"$10,000.00"
+,1/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.01 CST.,--,--,--,"$10,000.00"
+,1/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.01 CST.,--,--,--,"$10,000.00"
+,1/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.01 CST.,--,--,--,"$10,000.00"
+,1/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.01 CST.,--,--,--,"$10,000.00"
+,1/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.01 CST.,--,--,--,"$10,000.00"
+,1/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.01 CST.,--,--,--,"$10,000.00"
+,1/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.01 CST.,--,--,--,"$10,000.00"
+,1/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.01 CST.,--,--,--,"$10,000.00"
+,1/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.01 CST.,--,--,--,"$10,000.00"
+,1/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.01 CST.,--,--,--,"$10,000.00"
+,1/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.01 CST.,--,--,--,"$10,000.00"
+,1/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.01 CST.,--,--,--,"$10,000.00"
+,1/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.01 CST.,--,--,--,"$10,000.00"
+,1/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.01 CST.,--,--,--,"$10,000.00"
+,1/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.01 CST.,--,--,--,"$10,000.00"
+,1/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.01 CST.,--,--,--,"$10,000.00"
+,1/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.01 CST.,--,--,--,"$10,000.00"
+,1/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.01 CST.,--,--,--,"$10,000.00"
+,1/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.01 CST.,--,--,--,"$10,000.00"
+,1/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.01 CST.,--,--,--,"$10,000.00"
+,1/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.01 CST.,--,--,--,"$10,000.00"
+,1/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.01 CST.,--,--,--,"$10,000.00"
+,1/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.01 CST.,--,--,--,"$10,000.00"
+,1/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.01 CST.,--,--,--,"$10,000.00"
+,1/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 31.01 CST.,--,--,--,"$10,000.00"
+,1/31/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.02 CST.,--,--,--,"$10,000.00"
+,2/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.02 CST.,--,--,--,"$10,000.00"
+,2/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.02 CST.,--,--,--,"$10,000.00"
+,2/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.02 CST.,--,--,--,"$10,000.00"
+,2/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.02 CST.,--,--,--,"$10,000.00"
+,2/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.02 CST.,--,--,--,"$10,000.00"
+,2/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.02 CST.,--,--,--,"$10,000.00"
+,2/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.02 CST.,--,--,--,"$10,000.00"
+,2/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.02 CST.,--,--,--,"$10,000.00"
+,2/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.02 CST.,--,--,--,"$10,000.00"
+,2/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.02 CST.,--,--,--,"$10,000.00"
+,2/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.02 CST.,--,--,--,"$10,000.00"
+,2/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.02 CST.,--,--,--,"$10,000.00"
+,2/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.02 CST.,--,--,--,"$10,000.00"
+,2/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.02 CST.,--,--,--,"$10,000.00"
+,2/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.02 CST.,--,--,--,"$10,000.00"
+,2/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.02 CST.,--,--,--,"$10,000.00"
+,2/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.02 CST.,--,--,--,"$10,000.00"
+,2/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.02 CST.,--,--,--,"$10,000.00"
+,2/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.02 CST.,--,--,--,"$10,000.00"
+,2/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.02 CST.,--,--,--,"$10,000.00"
+,2/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.02 CST.,--,--,--,"$10,000.00"
+,2/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.02 CST.,--,--,--,"$10,000.00"
+,2/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.02 CST.,--,--,--,"$10,000.00"
+,2/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.02 CST.,--,--,--,"$10,000.00"
+,2/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.02 CST.,--,--,--,"$10,000.00"
+,2/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.02 CST.,--,--,--,"$10,000.00"
+,2/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.02 CST.,--,--,--,"$10,000.00"
+,2/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.03 CST.,--,--,--,"$10,000.00"
+,3/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.03 CST.,--,--,--,"$10,000.00"
+,3/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.03 CST.,--,--,--,"$10,000.00"
+,3/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.03 CST.,--,--,--,"$10,000.00"
+,3/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.03 CST.,--,--,--,"$10,000.00"
+,3/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.03 CST.,--,--,--,"$10,000.00"
+,3/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.03 CST.,--,--,--,"$10,000.00"
+,3/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.03 CST.,--,--,--,"$10,000.00"
+,3/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.03 CST.,--,--,--,"$10,000.00"
+,3/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.03 CST.,--,--,--,"$10,000.00"
+,3/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.03 CST.,--,--,--,"$10,000.00"
+,3/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.03 CST.,--,--,--,"$10,000.00"
+,3/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.03 CST.,--,--,--,"$10,000.00"
+,3/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.03 CST.,--,--,--,"$10,000.00"
+,3/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.03 CST.,--,--,--,"$10,000.00"
+,3/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.03 CST.,--,--,--,"$10,000.00"
+,3/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.03 CST.,--,--,--,"$10,000.00"
+,3/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.03 CST.,--,--,--,"$10,000.00"
+,3/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.03 CST.,--,--,--,"$10,000.00"
+,3/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.03 CST.,--,--,--,"$10,000.00"
+,3/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.03 CST.,--,--,--,"$10,000.00"
+,3/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.03 CST.,--,--,--,"$10,000.00"
+,3/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.03 CST.,--,--,--,"$10,000.00"
+,3/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.03 CST.,--,--,--,"$10,000.00"
+,3/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.03 CST.,--,--,--,"$10,000.00"
+,3/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.03 CST.,--,--,--,"$10,000.00"
+,3/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.03 CST.,--,--,--,"$10,000.00"
+,3/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.03 CST.,--,--,--,"$10,000.00"
+,3/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.03 CST.,--,--,--,"$10,000.00"
+,3/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.03 CST.,--,--,--,"$10,000.00"
+,3/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 31.03 CST.,--,--,--,"$10,000.00"
+,3/31/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.04 CST.,--,--,--,"$10,000.00"
+,4/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.04 CST.,--,--,--,"$10,000.00"
+,4/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.04 CST.,--,--,--,"$10,000.00"
+,4/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.04 CST.,--,--,--,"$10,000.00"
+,4/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.04 CST.,--,--,--,"$10,000.00"
+,4/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.04 CST.,--,--,--,"$10,000.00"
+,4/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.04 CST.,--,--,--,"$10,000.00"
+,4/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.04 CST.,--,--,--,"$10,000.00"
+,4/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.04 CST.,--,--,--,"$10,000.00"
+,4/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.04 CST.,--,--,--,"$10,000.00"
+,4/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.04 CST.,--,--,--,"$10,000.00"
+,4/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.04 CST.,--,--,--,"$10,000.00"
+,4/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.04 CST.,--,--,--,"$10,000.00"
+,4/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.04 CST.,--,--,--,"$10,000.00"
+,4/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.04 CST.,--,--,--,"$10,000.00"
+,4/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.04 CST.,--,--,--,"$10,000.00"
+,4/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.04 CST.,--,--,--,"$10,000.00"
+,4/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.04 CST.,--,--,--,"$10,000.00"
+,4/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.04 CST.,--,--,--,"$10,000.00"
+,4/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.04 CST.,--,--,--,"$10,000.00"
+,4/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.04 CST.,--,--,--,"$10,000.00"
+,4/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.04 CST.,--,--,--,"$10,000.00"
+,4/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.04 CST.,--,--,--,"$10,000.00"
+,4/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.04 CST.,--,--,--,"$10,000.00"
+,4/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.04 CST.,--,--,--,"$10,000.00"
+,4/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.04 CST.,--,--,--,"$10,000.00"
+,4/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.04 CST.,--,--,--,"$10,000.00"
+,4/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.04 CST.,--,--,--,"$10,000.00"
+,4/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.04 CST.,--,--,--,"$10,000.00"
+,4/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.04 CST.,--,--,--,"$10,000.00"
+,4/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.05 CST.,--,--,--,"$10,000.00"
+,5/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.05 CST.,--,--,--,"$10,000.00"
+,5/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.05 CST.,--,--,--,"$10,000.00"
+,5/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.05 CST.,--,--,--,"$10,000.00"
+,5/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.05 CST.,--,--,--,"$10,000.00"
+,5/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.05 CST.,--,--,--,"$10,000.00"
+,5/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.05 CST.,--,--,--,"$10,000.00"
+,5/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.05 CST.,--,--,--,"$10,000.00"
+,5/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.05 CST.,--,--,--,"$10,000.00"
+,5/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.05 CST.,--,--,--,"$10,000.00"
+,5/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.05 CST.,--,--,--,"$10,000.00"
+,5/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.05 CST.,--,--,--,"$10,000.00"
+,5/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.05 CST.,--,--,--,"$10,000.00"
+,5/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.05 CST.,--,--,--,"$10,000.00"
+,5/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.05 CST.,--,--,--,"$10,000.00"
+,5/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.05 CST.,--,--,--,"$10,000.00"
+,5/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.05 CST.,--,--,--,"$10,000.00"
+,5/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.05 CST.,--,--,--,"$10,000.00"
+,5/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.05 CST.,--,--,--,"$10,000.00"
+,5/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.05 CST.,--,--,--,"$10,000.00"
+,5/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.05 CST.,--,--,--,"$10,000.00"
+,5/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.05 CST.,--,--,--,"$10,000.00"
+,5/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.05 CST.,--,--,--,"$10,000.00"
+,5/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.05 CST.,--,--,--,"$10,000.00"
+,5/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.05 CST.,--,--,--,"$10,000.00"
+,5/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.05 CST.,--,--,--,"$10,000.00"
+,5/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.05 CST.,--,--,--,"$10,000.00"
+,5/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.05 CST.,--,--,--,"$10,000.00"
+,5/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.05 CST.,--,--,--,"$10,000.00"
+,5/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.05 CST.,--,--,--,"$10,000.00"
+,5/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 31.05 CST.,--,--,--,"$10,000.00"
+,5/31/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.06 CST.,--,--,--,"$10,000.00"
+,6/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.06 CST.,--,--,--,"$10,000.00"
+,6/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.06 CST.,--,--,--,"$10,000.00"
+,6/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.06 CST.,--,--,--,"$10,000.00"
+,6/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.06 CST.,--,--,--,"$10,000.00"
+,6/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.06 CST.,--,--,--,"$10,000.00"
+,6/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.06 CST.,--,--,--,"$10,000.00"
+,6/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.06 CST.,--,--,--,"$10,000.00"
+,6/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.06 CST.,--,--,--,"$10,000.00"
+,6/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.06 CST.,--,--,--,"$10,000.00"
+,6/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.06 CST.,--,--,--,"$10,000.00"
+,6/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.06 CST.,--,--,--,"$10,000.00"
+,6/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.06 CST.,--,--,--,"$10,000.00"
+,6/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.06 CST.,--,--,--,"$10,000.00"
+,6/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.06 CST.,--,--,--,"$10,000.00"
+,6/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.06 CST.,--,--,--,"$10,000.00"
+,6/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.06 CST.,--,--,--,"$10,000.00"
+,6/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.06 CST.,--,--,--,"$10,000.00"
+,6/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.06 CST.,--,--,--,"$10,000.00"
+,6/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.06 CST.,--,--,--,"$10,000.00"
+,6/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.06 CST.,--,--,--,"$10,000.00"
+,6/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.06 CST.,--,--,--,"$10,000.00"
+,6/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.06 CST.,--,--,--,"$10,000.00"
+,6/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.06 CST.,--,--,--,"$10,000.00"
+,6/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.06 CST.,--,--,--,"$10,000.00"
+,6/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.06 CST.,--,--,--,"$10,000.00"
+,6/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.06 CST.,--,--,--,"$10,000.00"
+,6/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.06 CST.,--,--,--,"$10,000.00"
+,6/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.06 CST.,--,--,--,"$10,000.00"
+,6/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.06 CST.,--,--,--,"$10,000.00"
+,6/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.07 CST.,--,--,--,"$10,000.00"
+,7/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.07 CST.,--,--,--,"$10,000.00"
+,7/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.07 CST.,--,--,--,"$10,000.00"
+,7/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.07 CST.,--,--,--,"$10,000.00"
+,7/4/22,23:00:00,BAL,--,Cash balance at the start of the business day 05.07 CST.,--,--,--,"$10,000.00"
+,7/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.07 CST.,--,--,--,"$10,000.00"
+,7/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.07 CST.,--,--,--,"$10,000.00"
+,7/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.07 CST.,--,--,--,"$10,000.00"
+,7/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.07 CST.,--,--,--,"$10,000.00"
+,7/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.07 CST.,--,--,--,"$10,000.00"
+,7/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.07 CST.,--,--,--,"$10,000.00"
+,7/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.07 CST.,--,--,--,"$10,000.00"
+,7/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.07 CST.,--,--,--,"$10,000.00"
+,7/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.07 CST.,--,--,--,"$10,000.00"
+,7/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.07 CST.,--,--,--,"$10,000.00"
+,7/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.07 CST.,--,--,--,"$10,000.00"
+,7/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.07 CST.,--,--,--,"$10,000.00"
+,7/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.07 CST.,--,--,--,"$10,000.00"
+,7/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.07 CST.,--,--,--,"$10,000.00"
+,7/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.07 CST.,--,--,--,"$10,000.00"
+
+ 
+"Total Cash $1,378.49"
+
+
+Account Order History
+Notes,,Time Placed,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,PRICE,,TIF,Status
+,,3/2/22 10:04:15,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4378.00,LMT,DAY,FILLED
+,,3/2/22 00:14:15,FUTURE,SELL,-4,TO CLOSE,/MESH22,MAR 22,,FUTURE,4287.25,LMT,DAY,FILLED
+,,3/1/22 22:03:56,FUTURE,BUY,+2,TO OPEN,/MESH22,MAR 22,,FUTURE,4318.25,LMT,DAY,FILLED
+,,3/1/22 12:26:01,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4304.75,LMT,DAY,FILLED
+,,3/1/22 12:04:22,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4291.00,LMT,DAY,FILLED
+,,3/1/22 12:04:09,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4290.00,LMT,DAY,FILLED
+,,3/1/22 11:38:46,FUTURE,BUY,+2,TO OPEN,/MESH22,MAR 22,,FUTURE,4294.75,LMT,DAY,FILLED
+,,3/1/22 11:36:53,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4292.75,LMT,DAY,FILLED
+,,3/1/22 11:29:30,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,3/1/22 11:27:50,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,3/1/22 11:22:26,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4299.50,LMT,DAY,FILLED
+,,3/1/22 11:15:31,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4299.00,LMT,DAY,"REJECTED: Your buying power will be below zero ($1,759.01) if this order is accepted."
+,,3/1/22 11:15:16,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4301.75,LMT,DAY,"REJECTED: Your buying power will be below zero ($1,759.01) if this order is accepted."
+,,3/1/22 11:14:24,FUTURE,SELL,-4,TO CLOSE,/MESH22,MAR 22,,FUTURE,4304.25,LMT,DAY,CANCELED
+,,3/1/22 11:01:55,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,3/1/22 11:01:02,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,3/1/22 09:48:57,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4302.50,LMT,DAY,FILLED
+,,3/1/22 09:43:25,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4312.50,LMT,DAY,FILLED
+,,3/1/22 09:38:47,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4313.50,LMT,DAY,FILLED
+,,3/1/22 00:04:19,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4378.25,LMT,DAY,FILLED
+,,3/1/22 00:01:27,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4382.25,LMT,DAY,FILLED
+,,2/28/22 23:55:47,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4377.00,LMT,DAY,FILLED
+,,2/28/22 23:37:02,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4378.00,LMT,DAY,FILLED
+,,2/28/22 21:50:30,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4370.25,LMT,DAY,FILLED
+,,2/28/22 19:38:28,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4364.25,LMT,DAY,FILLED
+,,2/28/22 14:00:14,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4367.25,LMT,DAY,FILLED
+,,2/28/22 11:52:46,FUTURE,BUY,+4,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/28/22 11:22:57,FUTURE,SELL,-3,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/28/22 11:13:45,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/27/22 20:08:38,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4262.25,LMT,DAY,FILLED
+,,2/27/22 19:16:32,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4283.25,LMT,DAY,FILLED
+,,2/27/22 19:10:09,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4287.25,LMT,DAY,FILLED
+,,2/25/22 13:32:25,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/25/22 13:20:40,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/25/22 13:15:49,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/25/22 11:01:14,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4366.25,LMT,DAY,FILLED
+,,2/25/22 10:55:39,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/25/22 10:50:21,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4366.75,LMT,DAY,FILLED
+,,2/25/22 10:11:49,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4364.75,LMT,DAY,FILLED
+,,2/25/22 09:37:26,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4351.50,LMT,DAY,FILLED
+,,2/24/22 14:51:23,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4275.25,LMT,DAY,FILLED
+,,2/24/22 14:17:35,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/24/22 13:30:09,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4240.50,LMT,DAY,FILLED
+,,2/24/22 13:29:49,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4239.50,LMT,DAY,FILLED
+,,2/24/22 13:02:43,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/24/22 12:40:13,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/24/22 11:51:24,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4208.25,LMT,DAY,FILLED
+,,2/24/22 11:49:20,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/24/22 10:53:48,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4170.00,LMT,DAY,FILLED
+,,2/24/22 10:46:04,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/14/22 12:15:39,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/14/22 12:13:18,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/14/22 12:12:43,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4366.00,LMT,DAY,FILLED
+,,2/14/22 12:12:10,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4362.00,LMT,DAY,CANCELED
+,,2/14/22 11:54:08,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4373.75,LMT,DAY,FILLED
+,,2/14/22 09:04:29,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4389.75,LMT,DAY,FILLED
+,,2/14/22 08:57:29,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4382.25,LMT,DAY,FILLED
+,,2/14/22 08:57:09,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4387.25,LMT,DAY,FILLED
+,,2/14/22 08:24:00,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4398.25,LMT,DAY,FILLED
+,,2/13/22 19:52:43,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4415.00,LMT,DAY,FILLED
+,,2/13/22 19:23:22,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4406.25,LMT,DAY,FILLED
+,,2/13/22 17:37:41,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4410.50,LMT,DAY,FILLED
+,,2/13/22 17:30:50,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4414.00,LMT,DAY,FILLED
+,,2/13/22 17:25:30,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4419.00,LMT,DAY,FILLED
+,,2/13/22 17:16:27,FUTURE,BUY,+2,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/13/22 17:04:32,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4420.25,LMT,DAY,FILLED
+,,2/13/22 16:59:06,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4417.75,LMT,DAY,FILLED
+,,2/13/22 16:57:15,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4420.00,LMT,DAY,FILLED
+,,2/13/22 16:55:35,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4419.50,LMT,DAY,FILLED
+,,2/13/22 16:48:26,FUTURE,BUY,+4,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/13/22 16:10:09,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4406.50,LMT,DAY,FILLED
+,,2/13/22 16:08:08,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4402.25,LMT,DAY,FILLED
+,,2/11/22 13:57:47,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4416.75,LMT,DAY,FILLED
+,,2/11/22 13:50:03,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/11/22 13:33:20,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,,,,,,,,,,4403.50,STP,STD,
+,,2/11/22 13:25:22,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4405.00,LMT,DAY,FILLED
+,,2/11/22 12:50:18,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/11/22 12:14:18,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4423.25,LMT,DAY,FILLED
+,,2/11/22 12:13:41,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4420.00,LMT,DAY,REJECTED: Your buying power will be below zero ($487.51) if this order is accepted.
+,,2/11/22 12:11:24,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4415.00,LMT,DAY,CANCELED
+,,2/11/22 10:54:39,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/11/22 08:16:06,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,,RE #1427398547,,,,,,,,,,,
+,,2/11/22 08:16:06,FUTURE,SELL,-100%,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,TRIGGERED
+,,2/11/22 07:31:45,FUTURE,BUY,+2,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/11/22 05:57:55,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4488.50,LMT,DAY,FILLED
+,,2/11/22 05:31:57,FUTURE,BUY,+2,TO OPEN,/MESH22,MAR 22,,FUTURE,4496.25,LMT,DAY,FILLED
+,,2/10/22 23:11:46,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4462.50,LMT,DAY,FILLED
+,,2/10/22 21:14:10,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4475.50,LMT,DAY,FILLED
+,,2/10/22 18:33:17,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4484.00,LMT,DAY,FILLED
+,,2/10/22 13:33:57,FUTURE,SELL,-3,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 13:17:20,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4514.25,LMT,DAY,FILLED
+,,2/10/22 12:59:36,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4499.50,LMT,DAY,FILLED
+,,2/10/22 12:30:36,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4515.50,LMT,DAY,FILLED
+,,2/10/22 12:21:43,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 11:42:02,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,,RE #1426910129,,,,,,,,,,,
+,,2/10/22 11:42:02,FUTURE,BUY,100%,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,TRIGGERED
+,,2/10/22 11:32:53,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4515.75,LMT,DAY,FILLED
+,,2/10/22 11:17:45,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 11:07:06,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 10:35:35,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,,RE #1426822774,,,,,,,,,,,
+,,2/10/22 10:35:35,FUTURE,SELL,-100%,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,TRIGGERED
+,,2/10/22 10:33:49,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4563.25,LMT,DAY,CANCELED
+,,2/10/22 10:24:19,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 09:07:29,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,,RE #1426712843,,,,,,,,,,,
+,,2/10/22 09:07:29,FUTURE,BUY,100%,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,TRIGGERED
+,,2/10/22 09:07:01,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4560.00,LMT,DAY,CANCELED
+,,2/10/22 08:58:20,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 08:54:25,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/10/22 08:36:42,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4569.75,LMT,DAY,FILLED
+,,2/10/22 08:07:51,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4565.25,LMT,DAY,FILLED
+,,2/10/22 07:52:02,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4554.75,LMT,DAY,FILLED
+,,2/10/22 07:42:50,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4544.00,LMT,DAY,FILLED
+,,2/9/22 13:40:34,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4572.50,LMT,DAY,FILLED
+,,2/9/22 13:25:22,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4569.75,LMT,DAY,FILLED
+,,2/9/22 13:22:40,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4569.00,LMT,DAY,FILLED
+,,2/9/22 13:22:20,FUTURE,SELL,-2,TO OPEN,/MESH22,MAR 22,,FUTURE,4568.50,LMT,DAY,"REJECTED: Your buying power will be below zero ($1,353.01) if this order is accepted."
+,,2/9/22 12:57:26,FUTURE,SELL,-4,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/9/22 10:47:15,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4569.00,LMT,DAY,REJECTED: Your buying power will be below zero ($213.51) if this order is accepted.
+,,2/9/22 10:47:04,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4568.75,LMT,DAY,FILLED
+,,2/9/22 08:35:13,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4570.75,LMT,DAY,FILLED
+,,2/9/22 07:58:28,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4559.00,LMT,DAY,FILLED
+,,2/8/22 14:00:06,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4511.25,LMT,DAY,FILLED
+,,2/8/22 13:19:17,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/8/22 12:06:08,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4511.25,LMT,DAY,FILLED
+,,2/8/22 11:09:42,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4508.50,LMT,DAY,FILLED
+,,2/8/22 11:01:56,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4509.25,LMT,DAY,FILLED
+,,2/8/22 10:46:16,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/8/22 10:38:31,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/8/22 10:15:33,FUTURE,SELL,-2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4500.75,LMT,DAY,FILLED
+,,2/8/22 09:33:01,STOCK,SELL,-200,TO CLOSE,SENS,,,STOCK,3.49,LMT,DAY,FILLED
+,,2/8/22 09:31:08,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4498.25,LMT,DAY,FILLED
+,,2/8/22 09:01:21,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4487.50,LMT,DAY,FILLED
+,,2/8/22 08:57:59,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4485.00,LMT,DAY,FILLED
+,,2/8/22 08:45:42,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4479.00,LMT,DAY,FILLED
+,,2/7/22 13:58:30,FUTURE,BUY,+2,TO CLOSE,/MESH22,MAR 22,,FUTURE,4471.50,LMT,DAY,FILLED
+,,2/7/22 13:57:19,STOCK,BUY,+200,TO OPEN,SENS,,,STOCK,~,MKT,DAY,FILLED
+,,2/7/22 13:45:13,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4478.00,LMT,DAY,FILLED
+,,2/7/22 13:29:07,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4495.25,LMT,DAY,FILLED
+,,2/7/22 12:50:34,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4502.50,LMT,DAY,FILLED
+,,2/7/22 12:23:27,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4495.75,LMT,DAY,FILLED
+,,2/7/22 12:05:46,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4497.25,LMT,DAY,FILLED
+,,2/7/22 11:52:01,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4493.25,LMT,DAY,FILLED
+,,2/7/22 11:51:49,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4492.25,LMT,DAY,FILLED
+,,2/7/22 11:51:46,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4492.25,LMT,DAY,FILLED
+,,2/7/22 11:42:14,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4497.50,LMT,DAY,FILLED
+,,2/7/22 11:29:09,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/7/22 11:27:48,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/7/22 11:27:29,FUTURE,BUY,+1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4476.50,LMT,DAY,CANCELED
+,,2/7/22 10:40:24,FUTURE,SELL,-1,TO OPEN,/MESH22,MAR 22,,FUTURE,4476.50,LMT,DAY,FILLED
+,,2/7/22 10:40:19,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,4477.00,LMT,DAY,FILLED
+,,2/7/22 09:43:09,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,4482.50,LMT,DAY,FILLED
+,,2/7/22 09:42:53,FUTURE,SELL,-1,TO CLOSE,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/7/22 09:29:22,FUTURE,BUY,+1,TO OPEN,/MESH22,MAR 22,,FUTURE,~,MKT,DAY,FILLED
+,,2/4/22 12:49:12,SINGLE,SELL,-10,TO CLOSE,ANY,11 FEB 22,3,CALL,.46,LMT,DAY,FILLED
+,,2/4/22 09:49:55,SINGLE,BUY,+10,TO OPEN,ANY,11 FEB 22,3,CALL,.30,LMT,DAY,FILLED
+,,2/4/22 09:18:16,SINGLE,BUY,+1,TO OPEN,CFVI,18 FEB 22,10,CALL,2.00,LMT,DAY,CANCELED
+,,2/4/22 09:14:44,STOCK,BUY,+10,TO OPEN,JNJ,,,STOCK,~,MKT,DAY,FILLED
+,,2/3/22 12:23:46,SINGLE,SELL,-5,TO CLOSE,SENS,18 FEB 22,2.5,CALL,.63,LMT,DAY,FILLED
+,,2/3/22 12:23:31,SINGLE,SELL,-10,TO CLOSE,JNJ,4 FEB 22,175,CALL,.16,LMT,DAY,FILLED
+,,2/3/22 12:23:10,STOCK,SELL,-50,TO CLOSE,AR,,,STOCK,21.27,LMT,DAY,FILLED
+,,2/3/22 12:22:27,STOCK,SELL,-5,TO CLOSE,LVS,,,STOCK,44.26,LMT,DAY,FILLED
+,,2/3/22 10:26:58,SINGLE,BUY,+10,TO OPEN,JNJ,4 FEB 22,175,CALL,.18,LMT,DAY,FILLED
+,,2/3/22 10:08:47,SINGLE,BUY,+5,TO OPEN,SENS,18 FEB 22,2.5,CALL,.70,LMT,DAY,FILLED
+,,2/2/22 11:52:14,STOCK,BUY,+50,TO OPEN,AR,,,STOCK,~,MKT,DAY,FILLED
+,,2/2/22 11:50:34,SINGLE,SELL,-1,TO OPEN,ETSY,11 FEB 22,144,PUT,10.20,LMT,DAY,"REJECTED: Your buying power will be below zero ($1,099.80) if this order is accepted."
+,,2/2/22 11:49:43,STOCK,SELL,-5,TO OPEN,ETSY,,,STOCK,~,MKT,DAY,"REJECTED: This stock is not available to borrow. If you want us to try to locate it for you, please call our trade desk."
+,,2/2/22 11:49:28,STOCK,SELL,-5,TO OPEN,ETSY,,,STOCK,~,MKT,DAY,"REJECTED: This stock is not available to borrow. If you want us to try to locate it for you, please call our trade desk."
+,,2/2/22 11:27:00,SINGLE,SELL,-7,TO CLOSE,MGI,18 FEB 22,9,CALL,1.05,LMT,DAY,FILLED
+,,2/2/22 09:57:18,SINGLE,SELL,-1,TO CLOSE,AFRM,11 FEB 22,63,CALL,4.40,LMT,DAY,FILLED
+,,2/2/22 09:55:52,SINGLE,BUY,+7,TO OPEN,MGI,18 FEB 22,9,CALL,.95,LMT,DAY,FILLED
+,,2/2/22 08:56:18,SINGLE,SELL,-1,TO CLOSE,DELL,18 FEB 22,55,CALL,4.45,LMT,DAY,FILLED
+,,2/2/22 08:54:37,STOCK,SELL,-5,TO CLOSE,MTCH,,,STOCK,119.62,LMT,DAY,FILLED
+,,2/2/22 08:29:23,STOCK,BUY,+5,TO OPEN,LVS,,,STOCK,45.16,LMT,DAY,FILLED
+,,2/2/22 08:23:37,STOCK,BUY,+5,TO OPEN,MTCH,,,STOCK,119.02,LMT,DAY,FILLED
+,,2/1/22 13:19:48,SINGLE,BUY,+1,TO OPEN,DELL,18 FEB 22,55,CALL,3.50,LMT,DAY,FILLED
+,,2/1/22 12:25:42,STOCK,SELL,-10,TO CLOSE,F,,,STOCK,20.40,LMT,DAY,FILLED
+,,2/1/22 12:16:55,STOCK,SELL,-1,TO CLOSE,SPY,,,ETF,450.38,LMT,DAY,FILLED
+,,2/1/22 12:16:42,STOCK,SELL,-100,TO CLOSE,SPY,,,ETF,450.44,LMT,DAY,"REJECTED: Your buying power will be below zero ($21,269.26) if this order is accepted."
+,,2/1/22 12:03:42,SINGLE,BUY,+1,TO OPEN,AFRM,11 FEB 22,63,CALL,8.10,LMT,DAY,FILLED
+,,2/1/22 12:01:58,SINGLE,BUY,+1,TO CLOSE,AFRM,11 FEB 22,63,CALL,8.00,LMT,DAY,FILLED
+,,2/1/22 11:45:04,STOCK,BUY,+1,TO OPEN,SPY,,,ETF,~,MKT,DAY,FILLED
+,,2/1/22 11:43:31,STOCK,BUY,+10,TO OPEN,F,,,STOCK,~,MKT,DAY,FILLED
+,,2/1/22 11:09:30,SINGLE,SELL,-1,TO OPEN,NOW,11 FEB 22,605,CALL,9.20,LMT,DAY,"REJECTED: Your buying power will be below zero ($9,261.17) if this order is accepted."
+,,2/1/22 11:09:17,SINGLE,BUY,+1,TO OPEN,NOW,11 FEB 22,595,CALL,13.90,LMT,DAY,REJECTED: Your buying power will be below zero ($870.67) if this order is accepted.
+,,2/1/22 10:25:53,SINGLE,SELL,-1,TO OPEN,AFRM,11 FEB 22,63,CALL,8.80,LMT,DAY,FILLED
+,,1/13/22 15:48:27,SINGLE,BUY,+1,TO OPEN,F,21 JAN 22,26,CALL,.30,LMT,DAY,FILLED
+,,1/11/22 08:40:51,SINGLE,SELL,-1,TO CLOSE,EBAY,21 JAN 22,67,PUT,2.10,LMT,DAY,FILLED
+,,1/11/22 08:40:00,STOCK,BUY,+10,TO CLOSE,EBAY,,,STOCK,65.68,LMT,DAY,FILLED
+,,1/10/22 11:43:57,SINGLE,BUY,+1,TO OPEN,EBAY,21 JAN 22,67,PUT,3.40,LMT,DAY,FILLED
+,,1/10/22 11:13:29,STOCK,SELL,-10,TO OPEN,EBAY,,,STOCK,63.96,LMT,DAY,FILLED
+,,1/7/22 10:40:30,SINGLE,BUY,+10,TO OPEN,LCID,7 JAN 22,43,CALL,.29,LMT,DAY,CANCELED
+
+Account Trade History
+,Exec Time,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,Price,Net Price,Order Type
+,1/10/22 11:13:29,STOCK,SELL,-10,TO OPEN,EBAY,,,STOCK,63.98,63.98,LMT
+,1/10/22 11:43:59,SINGLE,BUY,+1,TO OPEN,EBAY,21 JAN 22,67,PUT,3.40,3.40,LMT
+,1/11/22 08:40:00,STOCK,BUY,+10,TO CLOSE,EBAY,,,STOCK,65.65,65.65,LMT
+,1/11/22 08:40:54,SINGLE,SELL,-1,TO CLOSE,EBAY,21 JAN 22,67,PUT,2.10,2.10,LMT
+
+Profits and Losses
+Symbol,Description,P/L Open,P/L %,P/L Day,P/L YTD,P/L Diff,Margin Req,Mark Value
+/MESH22,"Micro E-mini S&P 500, Mar-22 (prev. /MESH2)",$0.00,0.00%,$0.00,"($1,635.00)","($1,635.00)",$0.00,$0.00
+AFRM,AFFIRM HLDGS INC COM CL A,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+ANY,SPHERE 3D CORP NEW COM,$0.00,0.00%,$0.00,$180.00,$180.00,$0.00,$0.00
+AR,ANTERO RESOURCES CORPORATION COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+DELL,DELL TECHNOLOGIES INC COM CL C,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+EBAY,EBAY INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+F,FORD MOTOR CO COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+JNJ,JOHNSON & JOHNSON COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LVS,LAS VEGAS SANDS CORP COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MGI,MONEYGRAM INTERNATIONAL INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MTCH,MATCH GROUP INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+SENS,SENSEONICS HOLDINGS INC COM,$0.00,0.00%,$0.00,($40.00),($40.00),$0.00,$0.00
+SPY,SPDR S&P500 ETF TRUST TR UNIT ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+,OVERALL TOTALS,$0.00,0.00%,$0.00,"($1,495.00)","($1,495.00)",$0.00,$0.00
+
+Forex Account Summary
+Forex Cash,"$10,000.00"
+Forex Unrealized P/L,$0.00
+Forex Floating P/L,$0.00
+Forex Equity,"$10,000.00"
+Forex Margin,$0.00
+Forex Buying Power,"$10,000.00"
+Forex Risk Level,0.00%
+Forex Commissions YTD,$0.00
+
+Account Summary
+Net Liquidating Value,"$1,378.49"
+Stock Buying Power,"$2,756.98"
+Option Buying Power,"$1,378.49"
+Equity Commissions & Fees YTD,$13.14
+Futures Commissions & Fees YTD,$445.50
+Total Commissions & Fees YTD,$458.64

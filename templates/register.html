@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
-
-{% block content %}
+{% set active_page = 'register' %}
+{% block content %} 
     <form method="POST" action="{{ url_for('register') }}">
         {{ form.csrf_token }}
         <div class="form-group">

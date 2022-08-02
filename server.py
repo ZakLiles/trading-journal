@@ -1,14 +1,16 @@
-from flask import Flask, redirect, render_template, url_for, flash, session
+from flask import Flask, redirect, render_template, url_for, flash, session, request
 from flask_wtf import FlaskForm
-from wtforms.fields import EmailField, PasswordField, SubmitField, StringField
+from wtforms.fields import EmailField, PasswordField, SubmitField, StringField, SelectField, FileField
 from wtforms.validators import InputRequired, DataRequired, EqualTo
 import os
 from jinja2 import StrictUndefined
-
-from model import connect_to_db, db, User
+from trades import find_orders, create_order
+from model import connect_to_db, db, User, Trade
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
+UPLOAD_FOLDER = "static\\files"
+app.config['UPLOAD_FOLDER'] =  UPLOAD_FOLDER
 
 app.jinja_env.undefined = StrictUndefined
 
@@ -23,15 +25,26 @@ class RegisterForm(FlaskForm):
     submit = SubmitField("Register")
 
 class LoginForm(FlaskForm):
-    email = EmailField("Email")
-    password = PasswordField("Password")
+    email = EmailField("Email", validators=[InputRequired("Email is required!"), DataRequired("Email is required")])
+    password = PasswordField("Password", validators=[InputRequired("Password is required!"), DataRequired("Password is required")])
     submit = SubmitField("Login")
+
+class ImportForm(FlaskForm):
+    broker = SelectField("Broker", choices = ["Think or Swim"])
+    portfolio = SelectField("Portfolio", choices=["Test Portfolio"])
+    time_zone = SelectField("Time Zone", choices=["DO NOT CONVERT", "UTC/GMT -7 US/Mountain"])
+    date_format = SelectField("Date Format", choices=["MM/DD/YYYY", "MM/DD/YY", "DD/MM/YY", "YYYY/MM/DD", "YY/MM/DD"])
+    trades_file = FileField("File")
 
 @app.route("/")
 def index():
     """Home page"""
-
-    return render_template("index.html")
+    user_id = session.get("user_id")
+    if user_id:
+        trades = Trade.query.filter_by(user_id=user_id).all()
+        return render_template("index.html", trades=trades)
+    else:
+        return render_template("landing.html")
 
 @app.route("/register", methods=["GET", "POST"])
 def register():
@@ -51,7 +64,7 @@ def register():
             user = User(first_name=first_name, last_name=last_name, email=email, password=password)
             db.session.add(user)
             db.session.commit()
-            flash("Registration succesful", "success")
+            flash("Registration successful", "success")
             login_user(user)
             return redirect(url_for('index'))
         else:
@@ -68,7 +81,55 @@ def login():
 
     form = LoginForm()
 
+    if form.validate_on_submit():
+        email = form.email.data
+        password = form.password.data
+
+        user = User.query.filter_by(email=email).first()
+
+        if user.check_password(password):
+            flash("You are successfully logged in.", "success")
+            login_user(user)
+            return redirect(url_for("index"))
+        else:
+            form.password.errors.append("Incorrect Password")
+
     return render_template("login.html", form=form)
+
+@app.route("/logout")
+def logout():
+    """Logout"""
+
+    if not session.get("user_id"):
+        flash("You are not logged in")
+    else:
+        logout_user()
+        flash("You are logged out")
+    return redirect(url_for("index"))
+
+@app.route("/add-trades/import", methods=["GET", "POST"])
+def import_trades():
+    """Import trades from CSV"""
+    
+    form = ImportForm()
+
+    if form.validate_on_submit():
+
+        uploaded_file = request.files['trades_file']
+        if uploaded_file.filename != '':
+
+            file_path = os.path.join(app.config['UPLOAD_FOLDER'], uploaded_file.filename)
+
+            uploaded_file.save(file_path)
+            orders_list = find_orders(file_path)
+            user_id = session["user_id"]
+            for order in orders_list:
+                create_order(order, user_id)
+            flash("Trades uploaded successfully", "success")
+            return redirect(url_for("index"))
+
+    return render_template("import.html", form=form)
+
 
 def login_user(user):
     session["user_id"] = user.user_id
