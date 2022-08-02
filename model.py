@@ -1,5 +1,4 @@
 import os
-from turtle import pos
 from dotenv import load_dotenv
 from werkzeug.security import generate_password_hash, check_password_hash
 
