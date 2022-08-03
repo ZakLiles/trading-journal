@@ -11,6 +11,9 @@
             {{ form.password.label }}
             {{ form.password(class = "form-control")}}
         </div>
-        <button type="submit" class="btn btn-primary">Login</button>
+        <div class="form-group">
+            {{ form.submit(class="btn btn-primary form-control")}}
+        </div>
+        <div class="container" align="center">Don't have an account? <a href="{{ url_for('register') }}">Register</a></div>
     </form>
 {% endblock %}

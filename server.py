@@ -83,6 +83,7 @@ def login():
     form = LoginForm()
 
     if form.validate_on_submit():
+
         email = form.email.data
         password = form.password.data
 
@@ -92,10 +93,12 @@ def login():
             flash("No user with associate e-mail exists. Please complete registration", "danger")
             return redirect(url_for("index"))
         if user.check_password(password):
+            print("Password matches")
             flash("You are successfully logged in.", "success")
             login_user(user)
             return redirect(url_for("index"))
-        else:
+        else: 
+            flash("Password is incorrect, please try again", "danger")
             form.password.errors.append("Incorrect Password")
 
     return render_template("login.html", form=form)
