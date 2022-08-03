@@ -1,10 +1,11 @@
+from sre_parse import expand_template
 from flask import Flask, redirect, render_template, url_for, flash, session, request
 from flask_wtf import FlaskForm
 from wtforms.fields import EmailField, PasswordField, SubmitField, StringField, SelectField, FileField
 from wtforms.validators import InputRequired, DataRequired, EqualTo
 import os
 from jinja2 import StrictUndefined
-from trades import find_orders, create_order
+from trades import find_orders, parse_order_row, create_order
 from model import connect_to_db, db, User, Trade
 
 app = Flask(__name__)
@@ -41,7 +42,7 @@ def index():
     """Home page"""
     user_id = session.get("user_id")
     if user_id:
-        trades = Trade.query.filter_by(user_id=user_id).all()
+        trades = Trade.query.filter_by(user_id=user_id).order_by(Trade.open_date).all()
         return render_template("index.html", trades=trades)
     else:
         return render_template("landing.html")
@@ -87,6 +88,9 @@ def login():
 
         user = User.query.filter_by(email=email).first()
 
+        if user is None:
+            flash("No user with associate e-mail exists. Please complete registration", "danger")
+            return redirect(url_for("index"))
         if user.check_password(password):
             flash("You are successfully logged in.", "success")
             login_user(user)
@@ -104,7 +108,7 @@ def logout():
         flash("You are not logged in")
     else:
         logout_user()
-        flash("You are logged out")
+        flash("You are logged out", "success")
     return redirect(url_for("index"))
 
 @app.route("/add-trades/import", methods=["GET", "POST"])
@@ -123,8 +127,11 @@ def import_trades():
             uploaded_file.save(file_path)
             orders_list = find_orders(file_path)
             user_id = session["user_id"]
+
             for order in orders_list:
-                create_order(order, user_id)
+                exec_time, spread, side, qty, pos_effect, symbol, expiration, strike_price, type, price, order_type = parse_order_row(order)
+                create_order(user_id=user_id, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price,order_type=order_type)
+            
             flash("Trades uploaded successfully", "success")
             return redirect(url_for("index"))
 

@@ -15,7 +15,7 @@ def find_orders(file_path):
                 if "Account Trade History" in row[0]:
                     account_trade_history = True
                     trade_counter = 0
-                    print("Found Account Trade History")
+
                     continue
             #reverts boolean after end of trade history is reached
             elif len(row) == 0 and account_trade_history == True:
@@ -30,7 +30,7 @@ def find_orders(file_path):
     
     return orders_list
 
-def create_order(order_row, user_id):
+def parse_order_row(order_row):
     exec_time = datetime.datetime.strptime(order_row[1], "%m/%d/%y %H:%M:%S")
     spread = order_row[2]
     side = order_row[3]
@@ -57,6 +57,10 @@ def create_order(order_row, user_id):
     price = float(order_row[10])
     order_type = order_row[12]
 
+    return exec_time, spread, side, qty, pos_effect, symbol, expiration, strike_price, type, price, order_type
+
+def create_order(user_id, exec_time, spread, side, qty, pos_effect, symbol, expiration, strike_price, type, price, order_type):
+
     #query database to find open trade for the user that matches the order symbol, spread, & side
     open_trade = Trade.query.filter_by(user_id=user_id, symbol=symbol, spread=spread, open=True).first()
 
@@ -66,9 +70,9 @@ def create_order(order_row, user_id):
         open_trade = Trade(user_id=user_id, open_date=exec_time, symbol=symbol, entry_price=price, side=side, spread=spread, position=qty)
         db.session.add(open_trade)
         db.session.commit()
-        order = Order(trade_id=open_trade.trade_id, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
-        db.session.add(order)
-        db.session.commit()
+
+        order = add_order_to_db(trade=open_trade, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
+
 
     else:
 
@@ -81,17 +85,9 @@ def create_order(order_row, user_id):
             qty_two = qty - qty_one
 
             #closing order
-            order_one = Order(trade_id=open_trade.trade_id, exec_time=exec_time, spread=spread, side=side, qty=qty_one, pos_effect=pos_effect, symbol=symbol, expiration=expiration,strike_price=strike_price, type=type, price=price, order_type=order_type)
-            open_trade.exit_price = price
-            open_trade.position = 0
-            open_trade.open = False
-            db.session.commit()
-            if ((open_trade.entry_price < open_trade.exit_price) and (open_trade.side=="BUY")) or ((open_trade.entry_price > open_trade.exit_price) and open_trade.side=="SELL"):
-                open_trade.result = "WIN"
-            else:
-                open_trade.result = "LOSS"
+            order_one = add_order_to_db(trade=open_trade, exec_time=exec_time, spread=spread, side=side, qty=qty_one, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
 
-            db.session.add(order_one)
+            close_trade(trade=open_trade, closing_order=order_one)
 
             #new opening trade
             new_open_trade = Trade(user_id=user_id, open_date=exec_time, symbol=symbol, entry_price=price, side=side, spread=spread, position=qty_two)
@@ -99,27 +95,46 @@ def create_order(order_row, user_id):
             db.session.commit()
 
             #new opening order
-            order_two = Order(trade_id=new_open_trade.trade_id, exec_time=exec_time, spread=spread, side=side, qty=qty_two, pos_effect=pos_effect, symbol=symbol, expiration=expiration,strike_price=strike_price, type=type, price=price, order_type=order_type)
-            db.session.add(order_two)
-            db.session.commit()
+            order_two = add_order_to_db(trade=new_open_trade, exec_time=exec_time, spread=spread, side=side, qty=qty_two, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
+
         else:
             #add order to open trade
-            order = Order(trade_id=open_trade.trade_id, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
-            db.session.add(order)
+            order = add_order_to_db(trade=open_trade, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
+
             open_trade.position += qty
             db.session.commit()
 
-            #if trade position equals zero, consider the trade close
+            #if trade position equals zero, consider the trade closed
             if open_trade.position == 0:
-                open_trade.exit_price = price
-                open_trade.open = False
-                db.session.commit()
-                if ((open_trade.entry_price < open_trade.exit_price) and (open_trade.side=="BUY")) or ((open_trade.entry_price > open_trade.exit_price) and open_trade.side=="SELL"):
-                    open_trade.result = "WIN"
-                else:
-                    open_trade.result = "LOSS"
-                db.session.commit()
+                close_trade(trade=open_trade, closing_order=order)
+
+def add_order_to_db(trade, exec_time, spread, side, qty, pos_effect, symbol, expiration, strike_price, type, price, order_type):
+        order = Order(trade_id=trade.trade_id, exec_time=exec_time, spread=spread, side=side, qty=qty, pos_effect=pos_effect, symbol=symbol, expiration=expiration, strike_price=strike_price, type=type, price=price, order_type=order_type)
+        db.session.add(order)
+        calc_total_trade_cost(spread=spread, qty=qty, price=price, trade=trade)
+        db.session.commit()
+        return order
+
+def calc_total_trade_cost(spread, qty, price, trade):
+
+    if spread == "SINGLE":
+        trade.return_amt += -(100*qty*price)
+    elif spread == "STOCK":
+        trade.return_amt += -(qty*price)
+    elif spread == "FUTURE":
+        trade.return_amt += -(5*qty*price)
 
 
-
-
+def close_trade(trade, closing_order):
+    trade.position = 0
+    trade.exit_price = closing_order.price
+    trade.open = False
+    db.session.commit()
+    if trade.return_amt > 0:
+        trade.result = "WIN"
+    elif trade.return_amt == 0:
+        trade.result = "EVEN"
+    else:
+        trade.result = "LOSS"
+    db.session.commit()
+    

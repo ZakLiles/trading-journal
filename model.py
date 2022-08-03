@@ -42,7 +42,7 @@ class Trade(db.Model):
     symbol = db.Column(db.String(10))
     entry_price = db.Column(db.Float())
     exit_price = db.Column(db.Float())
-    return_amt = db.Column(db.Float())
+    return_amt = db.Column(db.Float(), default = 0)
     result = db.Column(db.String(10))
     side = db.Column(db.String(10))
     spread = db.Column(db.String(10))
