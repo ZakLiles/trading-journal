@@ -41,10 +41,12 @@
                         {% endfor %}
                     </tbody>
                     <tfoot>
+                        {% if net_return %}
                         <tr>
                             <td colspan="4">Winning Trades: {{ winning_trades }}/{{num_trades}}</td>
                             <td colspan="4">Net Return: {{"${:,.2f}".format(net_return)}}</td>
                         </tr>
+                        {% endif %}
                     </tfoot>
                 </table>
             </div>

@@ -1,0 +1,196 @@
+﻿This document was exported from the paperMoney® platform which provides a simulated trading environment. All data contained herein is for educational and entertainment purposes only. TD Ameritrade its subsidiaries and/or affiliates are not responsible for the accuracy of any of these exported data.
+
+Account Statement for D-20961747 (margin) since 7/5/22 through 8/3/22
+
+Cash Balance
+DATE,TIME,TYPE,REF #,DESCRIPTION,Misc Fees,Commissions & Fees,AMOUNT,BALANCE
+7/5/22,23:00:00,BAL,,Cash balance at the start of business day 06.07 CST,,,,"1,378.49"
+7/6/22,23:00:00,BAL,,Cash balance at the start of business day 07.07 CST,,,,"1,378.49"
+7/7/22,23:00:00,BAL,,Cash balance at the start of business day 08.07 CST,,,,"1,378.49"
+7/8/22,23:00:00,BAL,,Cash balance at the start of business day 09.07 CST,,,,"1,378.49"
+7/9/22,23:00:00,BAL,,Cash balance at the start of business day 10.07 CST,,,,"1,378.49"
+7/10/22,23:00:00,BAL,,Cash balance at the start of business day 11.07 CST,,,,"1,378.49"
+7/11/22,23:00:00,BAL,,Cash balance at the start of business day 12.07 CST,,,,"1,378.49"
+7/12/22,23:00:00,BAL,,Cash balance at the start of business day 13.07 CST,,,,"1,378.49"
+7/13/22,23:00:00,BAL,,Cash balance at the start of business day 14.07 CST,,,,"1,378.49"
+7/14/22,23:00:00,BAL,,Cash balance at the start of business day 15.07 CST,,,,"1,378.49"
+7/15/22,23:00:00,BAL,,Cash balance at the start of business day 16.07 CST,,,,"1,378.49"
+7/16/22,23:00:00,BAL,,Cash balance at the start of business day 17.07 CST,,,,"1,378.49"
+7/17/22,23:00:00,BAL,,Cash balance at the start of business day 18.07 CST,,,,"1,378.49"
+7/18/22,23:00:00,BAL,,Cash balance at the start of business day 19.07 CST,,,,"1,378.49"
+7/19/22,23:00:00,BAL,,Cash balance at the start of business day 20.07 CST,,,,"1,378.49"
+7/20/22,23:00:00,BAL,,Cash balance at the start of business day 21.07 CST,,,,"1,378.49"
+7/21/22,23:00:00,BAL,,Cash balance at the start of business day 22.07 CST,,,,"1,378.49"
+7/22/22,08:37:57,TRD,1517644025,BOT +1 SPY @398.05,,,-398.05,980.44
+7/22/22,08:38:43,LIQ,1517645902,Cash liquidation,,,"99,019.56","100,000.00"
+7/22/22,08:39:08,FND,1517645961,Cash adjustment,,,"-98,000.00","2,000.00"
+7/22/22,08:39:30,FND,1517646000,Cash adjustment,,,500.00,"2,500.00"
+7/22/22,08:49:01,TRD,1517661695,BOT +1 /MESU22:XCME @3999.00,,-2.25,,"2,497.75"
+7/22/22,09:06:29,TRD,1517694029,SOLD -2 /MESU22:XCME @3992.50,,-4.50,-32.50,"2,460.75"
+7/22/22,09:48:59,TRD,1517767967,BOT +1 /MESU22:XCME @3973.25,,-2.25,96.25,"2,554.75"
+7/22/22,10:27:13,TRD,1517816296,SOLD -1 /MESU22:XCME @3966.50,,-2.25,,"2,552.50"
+7/22/22,11:48:40,TRD,1517906137,BOT +1 /MESU22:XCME @3954.50,,-2.25,60.00,"2,610.25"
+7/22/22,12:06:01,TRD,1517923829,SOLD -2 /MESU22:XCME @3947.25,,-4.50,,"2,605.75"
+7/22/22,13:02:48,TRD,1517977045,tAndroid BOT +2 /MESU22:XCME @3952.75,,-4.50,-55.00,"2,546.25"
+7/22/22,23:00:00,BAL,,Cash balance at the start of business day 23.07 CST,,,,"2,546.25"
+7/23/22,23:00:00,BAL,,Cash balance at the start of business day 24.07 CST,,,,"2,546.25"
+7/24/22,23:00:00,BAL,,Cash balance at the start of business day 25.07 CST,,,,"2,546.25"
+7/25/22,23:00:00,BAL,,Cash balance at the start of business day 26.07 CST,,,,"2,546.25"
+7/26/22,23:00:00,BAL,,Cash balance at the start of business day 27.07 CST,,,,"2,546.25"
+7/27/22,23:00:00,BAL,,Cash balance at the start of business day 28.07 CST,,,,"2,546.25"
+7/28/22,07:47:17,TRD,1520613804,tAndroid SOLD -1 /MESU22:XCME @4008.00,,-2.25,,"2,544.00"
+7/28/22,08:36:45,TRD,1520746300,tAndroid BOT +2 /MESU22:XCME @4007.50,,-4.50,2.50,"2,542.00"
+7/28/22,09:15:14,TRD,1520828502,tAndroid BOT +1 /MESU22:XCME @4036.25,,-2.25,,"2,539.75"
+7/28/22,10:08:23,TRD,1520902476,tAndroid SOLD -2 /MESU22:XCME @4050.25,,-4.50,283.75,"2,819.00"
+7/28/22,11:23:18,TRD,1520982246,tAndroid BOT +1 /MESU22:XCME @4063.00,,-2.25,,"2,816.75"
+7/28/22,13:07:14,TRD,1521084323,tAndroid BOT +1 /MESU22:XCME @4079.00,,-2.25,,"2,814.50"
+7/28/22,14:15:00,ADJ,,/MESU22:XCME mark to market at 4073.50 official settlement price,,,25.00,"2,839.50"
+7/28/22,23:00:00,BAL,,Cash balance at the start of business day 29.07 CST,,,,"2,839.50"
+7/28/22,15:04:02,TRD,1521159558,tAndroid SOLD -2 /MESU22:XCME @4105.00,,-4.50,315.00,"3,150.00"
+7/28/22,15:20:33,TRD,1521195309,tAndroid SOLD -1 /MESU22:XCME @4105.00,,-2.25,,"3,147.75"
+7/28/22,18:23:46,TRD,1521232950,SOLD -1 /MESU22:XCME @4094.75,,-2.25,,"3,145.50"
+7/29/22,10:03:10,TRD,1521658311,tAndroid BOT +2 /MESU22:XCME @4111.25,,-4.50,-113.75,"3,027.25"
+7/29/22,11:12:49,TRD,1521729070,BOT +1 /MESU22:XCME @4117.00,,-2.25,,"3,025.00"
+7/29/22,11:14:49,TRD,1521732331,BOT +1 /MESU22:XCME @4117.75,,-2.25,,"3,022.75"
+7/29/22,11:35:59,TRD,1521752330,tAndroid SOLD -2 /MESU22:XCME @4115.75,,-4.50,-16.25,"3,002.00"
+7/29/22,12:14:18,TRD,1521795646,tAndroid SOLD -2 /MESU22:XCME @4126.50,,-4.50,,"2,997.50"
+7/29/22,12:51:32,TRD,1521833433,tAndroid BOT +2 /MESU22:XCME @4129.50,,-4.50,-30.00,"2,963.00"
+7/29/22,23:00:00,BAL,,Cash balance at the start of business day 30.07 CST,,,,"2,963.00"
+7/30/22,23:00:00,BAL,,Cash balance at the start of business day 31.07 CST,,,,"2,963.00"
+7/31/22,23:00:00,BAL,,Cash balance at the start of business day 01.08 CST,,,,"2,963.00"
+8/1/22,23:00:00,BAL,,Cash balance at the start of business day 02.08 CST,,,,"2,963.00"
+8/2/22,23:00:00,BAL,,Cash balance at the start of business day 03.08 CST,,,,"2,963.00"
+8/3/22,23:00:00,BAL,,Cash balance at the start of business day 04.08 CST,,,,"2,963.00"
+,,,,TOTAL,,($72.00),"$1,656.51","$2,963.00"
+
+Futures Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Misc Fees,Commissions & Fees,Amount,Balance
+
+Forex Statements
+,Date,Time,Type,Ref #,Description,Commissions & Fees,Amount,Amount(USD),Balance
+,7/5/22,23:00:00,BAL,--,Cash balance at the start of the business day 06.07 CST.,--,--,--,"$10,000.00"
+,7/6/22,23:00:00,BAL,--,Cash balance at the start of the business day 07.07 CST.,--,--,--,"$10,000.00"
+,7/7/22,23:00:00,BAL,--,Cash balance at the start of the business day 08.07 CST.,--,--,--,"$10,000.00"
+,7/8/22,23:00:00,BAL,--,Cash balance at the start of the business day 09.07 CST.,--,--,--,"$10,000.00"
+,7/9/22,23:00:00,BAL,--,Cash balance at the start of the business day 10.07 CST.,--,--,--,"$10,000.00"
+,7/10/22,23:00:00,BAL,--,Cash balance at the start of the business day 11.07 CST.,--,--,--,"$10,000.00"
+,7/11/22,23:00:00,BAL,--,Cash balance at the start of the business day 12.07 CST.,--,--,--,"$10,000.00"
+,7/12/22,23:00:00,BAL,--,Cash balance at the start of the business day 13.07 CST.,--,--,--,"$10,000.00"
+,7/13/22,23:00:00,BAL,--,Cash balance at the start of the business day 14.07 CST.,--,--,--,"$10,000.00"
+,7/14/22,23:00:00,BAL,--,Cash balance at the start of the business day 15.07 CST.,--,--,--,"$10,000.00"
+,7/15/22,23:00:00,BAL,--,Cash balance at the start of the business day 16.07 CST.,--,--,--,"$10,000.00"
+,7/16/22,23:00:00,BAL,--,Cash balance at the start of the business day 17.07 CST.,--,--,--,"$10,000.00"
+,7/17/22,23:00:00,BAL,--,Cash balance at the start of the business day 18.07 CST.,--,--,--,"$10,000.00"
+,7/18/22,23:00:00,BAL,--,Cash balance at the start of the business day 19.07 CST.,--,--,--,"$10,000.00"
+,7/19/22,23:00:00,BAL,--,Cash balance at the start of the business day 20.07 CST.,--,--,--,"$10,000.00"
+,7/20/22,23:00:00,BAL,--,Cash balance at the start of the business day 21.07 CST.,--,--,--,"$10,000.00"
+,7/21/22,23:00:00,BAL,--,Cash balance at the start of the business day 22.07 CST.,--,--,--,"$10,000.00"
+,7/22/22,23:00:00,BAL,--,Cash balance at the start of the business day 23.07 CST.,--,--,--,"$10,000.00"
+,7/23/22,23:00:00,BAL,--,Cash balance at the start of the business day 24.07 CST.,--,--,--,"$10,000.00"
+,7/24/22,23:00:00,BAL,--,Cash balance at the start of the business day 25.07 CST.,--,--,--,"$10,000.00"
+,7/25/22,23:00:00,BAL,--,Cash balance at the start of the business day 26.07 CST.,--,--,--,"$10,000.00"
+,7/26/22,23:00:00,BAL,--,Cash balance at the start of the business day 27.07 CST.,--,--,--,"$10,000.00"
+,7/27/22,23:00:00,BAL,--,Cash balance at the start of the business day 28.07 CST.,--,--,--,"$10,000.00"
+,7/28/22,23:00:00,BAL,--,Cash balance at the start of the business day 29.07 CST.,--,--,--,"$10,000.00"
+,7/29/22,23:00:00,BAL,--,Cash balance at the start of the business day 30.07 CST.,--,--,--,"$10,000.00"
+,7/30/22,23:00:00,BAL,--,Cash balance at the start of the business day 31.07 CST.,--,--,--,"$10,000.00"
+,7/31/22,23:00:00,BAL,--,Cash balance at the start of the business day 01.08 CST.,--,--,--,"$10,000.00"
+,8/1/22,23:00:00,BAL,--,Cash balance at the start of the business day 02.08 CST.,--,--,--,"$10,000.00"
+,8/2/22,23:00:00,BAL,--,Cash balance at the start of the business day 03.08 CST.,--,--,--,"$10,000.00"
+,8/3/22,23:00:00,BAL,--,Cash balance at the start of the business day 04.08 CST.,--,--,--,"$10,000.00"
+
+ 
+"Total Cash $2,963.00"
+
+
+Account Order History
+Notes,,Time Placed,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,PRICE,,TIF,Status
+,,7/29/22 12:51:32,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/29/22 12:50:52,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4128.50,LMT,DAY,CANCELED
+,,7/29/22 12:14:17,FUTURE,SELL,-2,TO OPEN,/MESU22,SEP 22,,FUTURE,4126.50,LMT,DAY,FILLED
+,,7/29/22 11:35:59,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4115.50,LMT,DAY,FILLED
+,,7/29/22 11:14:49,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/29/22 11:12:49,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/29/22 10:03:07,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4111.25,LMT,DAY,FILLED
+,,7/28/22 18:23:46,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/28/22 15:20:33,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,4104.75,LMT,DAY,FILLED
+,,7/28/22 15:04:02,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4104.75,LMT,DAY,FILLED
+,,7/28/22 13:07:14,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4079.50,LMT,DAY,FILLED
+,,7/28/22 11:23:18,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4063.25,LMT,DAY,FILLED
+,,7/28/22 10:08:23,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4050.00,LMT,DAY,FILLED
+,,7/28/22 09:15:14,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4036.50,LMT,DAY,FILLED
+,,7/28/22 08:36:44,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4007.75,LMT,DAY,FILLED
+,,7/28/22 07:47:17,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/28/22 07:46:41,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,4013.50,LMT,DAY,CANCELED
+,,7/22/22 13:02:48,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,3952.75,LMT,DAY,FILLED
+,,7/22/22 12:06:01,FUTURE,SELL,-2,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 11:48:40,FUTURE,BUY,+1,TO CLOSE,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 10:27:13,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 09:48:59,FUTURE,BUY,+1,TO CLOSE,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 09:06:29,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 08:49:01,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,FILLED
+,,7/22/22 08:37:57,STOCK,BUY,+1,TO OPEN,SPY,,,ETF,~,MKT,DAY,FILLED
+,,7/22/22 08:37:16,STOCK,BUY,+100,TO OPEN,SPY,,,ETF,~,MKT,DAY,"REJECTED: Your buying power will be below zero ($18,532.01) if this order is accepted."
+,,7/22/22 08:37:04,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,"REJECTED: Must have minimum Net Liq of $2,000.00 to trade futures"
+,,7/22/22 08:36:32,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,~,MKT,DAY,"REJECTED: Must have minimum Net Liq of $2,000.00 to trade futures"
+
+Account Trade History
+,Exec Time,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,Price,Net Price,Order Type
+,7/22/22 08:49:01,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,3999.00,3999.00,MKT
+,7/22/22 09:06:29,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,3992.50,3992.50,MKT
+,7/22/22 09:48:59,FUTURE,BUY,+1,TO CLOSE,/MESU22,SEP 22,,FUTURE,3973.25,3973.25,MKT
+,7/22/22 10:27:13,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,3966.50,3966.50,MKT
+,7/22/22 11:48:40,FUTURE,BUY,+1,TO CLOSE,/MESU22,SEP 22,,FUTURE,3954.50,3954.50,MKT
+,7/22/22 12:06:01,FUTURE,SELL,-2,TO OPEN,/MESU22,SEP 22,,FUTURE,3947.25,3947.25,MKT
+,7/22/22 13:02:48,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,3952.75,3952.75,LMT
+,7/28/22 07:47:17,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,4008.00,4008.00,MKT
+,7/28/22 08:36:45,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4007.50,4007.50,LMT
+,7/28/22 09:15:14,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4036.25,4036.25,LMT
+,7/28/22 10:08:23,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4050.25,4050.25,LMT
+,7/28/22 11:23:18,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4063.00,4063.00,LMT
+,7/28/22 13:07:14,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4079.00,4079.00,LMT
+,7/28/22 15:04:02,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4105.00,4105.00,LMT
+,7/28/22 15:20:33,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,4105.00,4105.00,LMT
+,7/28/22 18:23:46,FUTURE,SELL,-1,TO OPEN,/MESU22,SEP 22,,FUTURE,4094.75,4094.75,MKT
+,7/29/22 10:03:10,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4111.25,4111.25,LMT
+,7/29/22 11:12:49,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4117.00,4117.00,MKT
+,7/29/22 11:14:49,FUTURE,BUY,+1,TO OPEN,/MESU22,SEP 22,,FUTURE,4117.75,4117.75,MKT
+,7/29/22 11:35:59,FUTURE,SELL,-2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4115.75,4115.75,LMT
+,7/29/22 12:14:18,FUTURE,SELL,-2,TO OPEN,/MESU22,SEP 22,,FUTURE,4126.50,4126.50,LMT
+,7/29/22 12:51:32,FUTURE,BUY,+2,TO CLOSE,/MESU22,SEP 22,,FUTURE,4129.50,4129.50,MKT
+
+Profits and Losses
+Symbol,Description,P/L Open,P/L %,P/L Day,P/L YTD,P/L Diff,Margin Req,Mark Value
+/MESH22,"Micro E-mini S&P 500, Mar-22 (prev. /MESH2)",$0.00,0.00%,$0.00,$0.00,"$1,635.00",$0.00,$0.00
+/MESU22,"Micro E-mini S&P 500, Sep-22 (prev. /MESU2)",$0.00,0.00%,$0.00,$535.00,$535.00,$0.00,$0.00
+AFRM,AFFIRM HLDGS INC COM CL A,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+ANY,SPHERE 3D CORP NEW COM,$0.00,0.00%,$0.00,$0.00,($180.00),$0.00,$0.00
+AR,ANTERO RESOURCES CORPORATION COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+DELL,DELL TECHNOLOGIES INC COM CL C,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+EBAY,EBAY INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+F,FORD MOTOR CO COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+JNJ,JOHNSON & JOHNSON COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LVS,LAS VEGAS SANDS CORP COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MGI,MONEYGRAM INTERNATIONAL INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MTCH,MATCH GROUP INC COM,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+SENS,SENSEONICS HOLDINGS INC COM,$0.00,0.00%,$0.00,$0.00,$40.00,$0.00,$0.00
+SPY,SPDR S&P500 ETF TRUST TR UNIT ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+,OVERALL TOTALS,$0.00,0.00%,$0.00,$535.00,"$2,030.00",$0.00,$0.00
+
+Forex Account Summary
+Forex Cash,"$10,000.00"
+Forex Unrealized P/L,$0.00
+Forex Floating P/L,$0.00
+Forex Equity,"$10,000.00"
+Forex Margin,$0.00
+Forex Buying Power,"$10,000.00"
+Forex Risk Level,0.00%
+Forex Commissions YTD,$0.00
+
+Account Summary
+Net Liquidating Value,"$2,963.00"
+Stock Buying Power,"$5,926.00"
+Option Buying Power,"$2,963.00"
+Equity Commissions & Fees YTD,$0.00
+Futures Commissions & Fees YTD,$72.00
+Total Commissions & Fees YTD,$72.00
