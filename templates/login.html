@@ -1,19 +1,21 @@
 {% extends 'base.html' %}
 {% set active_page = 'login' %}
 {% block content %}
-    <form method="POST" action="{{ url_for('login') }}">
-        {{ form.csrf_token }}
-        <div class="form-group">
-            {{ form.email.label }}
-            {{ form.email(class = "form-control")}}
-        </div>
-        <div class="form-group">
-            {{ form.password.label }}
-            {{ form.password(class = "form-control")}}
-        </div>
-        <div class="form-group">
-            {{ form.submit(class="btn btn-primary form-control")}}
-        </div>
-        <div class="container" align="center">Don't have an account? <a href="{{ url_for('register') }}">Register</a></div>
-    </form>
+    <div class="d-flex justify-content-center mt-5">
+        <form method="POST" class="col-3 p-4 forms mt-5" action="{{ url_for('login') }}">
+            {{ form.csrf_token }}
+            <div class="mb-3">
+                {{ form.email.label }}
+                {{ form.email(class = "form-control")}}
+            </div>
+            <div class="mb-3">
+                {{ form.password.label }}
+                {{ form.password(class = "form-control")}}
+            </div>
+            <div class="mb-3">
+                {{ form.submit(class="btn primary-btns btn-lg form-control rounded-1")}}
+            </div>
+            <div class="container" align="center">Don't have an account? <a class="form-links" href="{{ url_for('register') }}">Register</a></div>
+        </form>
+    </div>
 {% endblock %}

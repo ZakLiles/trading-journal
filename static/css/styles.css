@@ -1,0 +1,29 @@
+.main-background {
+    background-color: #121721;
+}
+
+.forms {
+    background-color: #0F1014;
+}
+
+form{
+    color: RGB(153, 158, 171);
+    font-size: 14px;
+}
+
+.form-control {
+    background-color: #1B2131;
+    border-color: #245B53;
+}
+
+.primary-btns {
+    background-color: #00FFB3;
+}
+
+.form-links {
+    color: #00FFB3;
+}
+.asides {
+    background-color: #00FFB3;
+    /* height:100px; */
+}

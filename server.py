@@ -36,6 +36,7 @@ class ImportForm(FlaskForm):
     time_zone = SelectField("Time Zone", choices=["DO NOT CONVERT", "UTC/GMT -7 US/Mountain"])
     date_format = SelectField("Date Format", choices=["MM/DD/YYYY", "MM/DD/YY", "DD/MM/YY", "YYYY/MM/DD", "YY/MM/DD"])
     trades_file = FileField("File")
+    submit = SubmitField("Upload")
 
 @app.route("/")
 def index():
@@ -114,7 +115,7 @@ def logout():
         flash("You are logged out", "success")
     return redirect(url_for("index"))
 
-@app.route("/add-trades/import", methods=["GET", "POST"])
+@app.route("/add-trades", methods=["GET", "POST"])
 def import_trades():
     """Import trades from CSV"""
     

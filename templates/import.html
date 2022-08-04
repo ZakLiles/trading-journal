@@ -1,28 +1,32 @@
 {% extends 'base.html' %}
-{% set active_page = 'import' %}
+{% set active_page = 'test' %}
 {% block content %}
-    <form method="POST" action="{{ url_for('import_trades') }}" enctype="multipart/form-data">
-        {{ form.csrf_token }}
-        <div class="form-group">
-            {{ form.broker.label }}
-            {{ form.broker(class = "form-select")}}
-        </div>
-        <div class="form-group">
-            {{ form.portfolio.label }}
-            {{ form.portfolio(class = "form-select")}}
-        </div>
-        <div class="form-group">
-            {{ form.time_zone.label }}
-            {{ form.time_zone(class = "form-select")}}
-        </div>
-        <div class="form-group">
-            {{ form.date_format.label }}
-            {{ form.date_format(class = "form-select")}}
-        </div>
-        <div class="form-group">
-            {{ form.trades_file.label }}
-            {{ form.trades_file(class = "form-select")}}
-        </div>
-        <button type="submit" class="btn btn-primary">Upload</button>
-    </form>
+    <div class="d-flex justify-content-center mt-5">
+        <form method="POST" class="col-3 p-4 forms mt-5" action="{{ url_for('import_trades') }}" enctype="multipart/form-data">
+            {{ form.csrf_token }}
+            <div class="mb-3">
+                {{ form.broker.label }}
+                {{ form.broker(class = "form-select")}}
+            </div>
+            <div class="mb-3">
+                {{ form.portfolio.label }}
+                {{ form.portfolio(class = "form-select")}}
+            </div>
+            <div class="mb-3">
+                {{ form.time_zone.label }}
+                {{ form.time_zone(class = "form-select")}}
+            </div>
+            <div class="mb-3">
+                {{ form.date_format.label }}
+                {{ form.date_format(class = "form-select")}}
+            </div>
+            <div class="mb-3">
+                {{ form.trades_file.label }}
+                {{ form.trades_file(class = "form-select")}}
+            </div>
+            <div class="mb-3">
+                {{ form.submit(class="btn primary-btns btn-lg form-control rounded-1")}}
+            </div>
+        </form>
+    </div>
 {% endblock %}
