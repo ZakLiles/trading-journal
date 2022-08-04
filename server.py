@@ -1,4 +1,4 @@
-from sre_parse import expand_template
+from unittest import result
 from flask import Flask, redirect, render_template, url_for, flash, session, request
 from flask_wtf import FlaskForm
 from wtforms.fields import EmailField, PasswordField, SubmitField, StringField, SelectField, FileField
@@ -7,6 +7,7 @@ import os
 from jinja2 import StrictUndefined
 from trades import find_orders, parse_order_row, create_order
 from model import connect_to_db, db, User, Trade
+from sqlalchemy.sql import func
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
@@ -44,7 +45,10 @@ def index():
     user_id = session.get("user_id")
     if user_id:
         trades = Trade.query.filter_by(user_id=user_id).order_by(Trade.open_date).all()
-        return render_template("index.html", trades=trades)
+        net_return = db.session.query(func.sum(Trade.return_amt)).filter_by(user_id=user_id).first()[0]
+        num_trades = db.session.query(func.count(Trade.return_amt)).filter_by(user_id=user_id).all()[0][0]
+        winning_trades = db.session.query(func.count().filter(Trade.result=="WIN").filter(Trade.user_id==user_id)).all()[0][0]
+        return render_template("index.html", trades=trades, net_return=net_return, num_trades=num_trades, winning_trades=winning_trades)
     else:
         return render_template("landing.html")
 

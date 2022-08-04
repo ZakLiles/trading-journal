@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
+<br>
 <div class="container d-flex justify-content-end col-12">
     <div class="row col-12">
         <div class="col-sm-12">
@@ -39,6 +40,12 @@
                             </tr>
                         {% endfor %}
                     </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="4">Winning Trades: {{ winning_trades }}/{{num_trades}}</td>
+                            <td colspan="4">Net Return: {{"${:,.2f}".format(net_return)}}</td>
+                        </tr>
+                    </tfoot>
                 </table>
             </div>
         </div>
