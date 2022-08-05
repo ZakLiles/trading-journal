@@ -11,7 +11,7 @@ from sqlalchemy.sql import func
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
-UPLOAD_FOLDER = "static\\files"
+UPLOAD_FOLDER = "static/files"
 base_path = os.path.dirname(__file__)
 app.config['UPLOAD_FOLDER'] =  UPLOAD_FOLDER
 
