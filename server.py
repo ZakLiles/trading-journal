@@ -34,8 +34,8 @@ class LoginForm(FlaskForm):
 class ImportForm(FlaskForm):
     broker = SelectField("Broker", choices = ["Think or Swim"])
     portfolio = SelectField("Portfolio", choices=["Test Portfolio"])
-    time_zone = SelectField("Time Zone", choices=["DO NOT CONVERT", "UTC/GMT -7 US/Mountain"])
-    date_format = SelectField("Date Format", choices=["MM/DD/YYYY", "MM/DD/YY", "DD/MM/YY", "YYYY/MM/DD", "YY/MM/DD"])
+    time_zone = SelectField("Time Zone", choices=["DO NOT CONVERT"])
+    date_format = SelectField("Date Format", choices=["MM/DD/YYYY"])
     trades_file = FileField("File")
     submit = SubmitField("Upload")
 

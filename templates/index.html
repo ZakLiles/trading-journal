@@ -28,6 +28,11 @@
                             {% else %}
                                 {% set class_style="warning" %}
                             {% endif %}
+                            {% if trade.return_amt > 0 %}
+                                {% set return_style="text-success" %}
+                            {% else %}
+                                {% set return_style="text-danger" %}
+                            {% endif %}
                             <tr>
                                 <td><button style="width: 50px; height: 23px; text-align: center; padding: 0; text-transform: uppercase; font-weight: normal;" type="button" class="btn btn-{{ class_style }} btn-sm">{{ trade.result }}</button></td>
                                 <td>{{ trade.open_date }}</td>
@@ -36,7 +41,7 @@
                                 <td>{{ trade.spread }}</td>
                                 <td>{{ "${:,.2f}".format(trade.entry_price) }}</td>
                                 <td>{{ "${:,.2f}".format(trade.exit_price) if trade.exit_price }}</td>
-                                <td>{{ "${:,.2f}".format(trade.return_amt) }}</td>
+                                <td class="{{return_style}}">{{ "${:,.2f}".format(trade.return_amt) }}</td>
                             </tr>
                         {% endfor %}
                     </tbody>
