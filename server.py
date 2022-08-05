@@ -12,6 +12,7 @@ from sqlalchemy.sql import func
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
 UPLOAD_FOLDER = "static\\files"
+base_path = os.path.dirname(__file__)
 app.config['UPLOAD_FOLDER'] =  UPLOAD_FOLDER
 
 app.jinja_env.undefined = StrictUndefined
@@ -130,7 +131,7 @@ def import_trades():
         uploaded_file = request.files['trades_file']
         if uploaded_file.filename != '':
 
-            file_path = os.path.join(app.config['UPLOAD_FOLDER'], uploaded_file.filename)
+            file_path = os.path.join(base_path, app.config['UPLOAD_FOLDER'], uploaded_file.filename)
 
             uploaded_file.save(file_path)
             orders_list = find_orders(file_path)
